@@ -1,0 +1,28 @@
+[0.077s] Invoking command in '/home/keti/turtle_carto/build/cpp_service_pkg': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_service_pkg -- -j24 -l24
+[0.307s] [ 50%] Built target basic_client_node
+[0.307s] [ 50%] Built target robot_turning_client_node
+[0.307s] [ 75%] Built target basic_server_node
+[0.307s] [100%] Built target robot_turning_server_node
+[0.320s] Invoked command in '/home/keti/turtle_carto/build/cpp_service_pkg' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_service_pkg -- -j24 -l24
+[0.626s] Invoking command in '/home/keti/turtle_carto/build/cpp_service_pkg': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_service_pkg
+[0.653s] -- Install configuration: ""
+[0.653s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/basic_server_node
+[0.653s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/basic_client_node
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/robot_turning_server_node
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/robot_turning_client_node
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/ament_index/resource_index/package_run_dependencies/cpp_service_pkg
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/ament_index/resource_index/parent_prefix_path/cpp_service_pkg
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/environment/ament_prefix_path.sh
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/environment/ament_prefix_path.dsv
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/environment/path.sh
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/environment/path.dsv
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/local_setup.bash
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/local_setup.sh
+[0.656s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/local_setup.zsh
+[0.657s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/local_setup.dsv
+[0.657s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/package.dsv
+[0.657s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/ament_index/resource_index/packages/cpp_service_pkg
+[0.657s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/cmake/cpp_service_pkgConfig.cmake
+[0.657s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/cmake/cpp_service_pkgConfig-version.cmake
+[0.657s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/package.xml
+[0.667s] Invoked command in '/home/keti/turtle_carto/build/cpp_service_pkg' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_service_pkg

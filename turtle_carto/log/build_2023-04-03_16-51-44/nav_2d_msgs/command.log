@@ -1,0 +1,2 @@
+Invoking command in '/home/keti/turtle_carto/build/nav_2d_msgs': /usr/bin/cmake /home/keti/turtle_carto/src/ros-planning/navigation2/nav2_dwb_controller/nav_2d_msgs -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/nav_2d_msgs
+Invoked command in '/home/keti/turtle_carto/build/nav_2d_msgs' returned '1': /usr/bin/cmake /home/keti/turtle_carto/src/ros-planning/navigation2/nav2_dwb_controller/nav_2d_msgs -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/nav_2d_msgs

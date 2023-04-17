@@ -1,0 +1,25 @@
+[0.845s] Invoking command in '/home/keti/turtle_carto/src/gcamp_ros2_basic/py_topic_pkg': PYTHONPATH=/home/keti/turtle_carto/build/py_topic_pkg/prefix_override:/home/keti/turtle_carto/install/py_topic_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/py_topic_pkg build --build-base /home/keti/turtle_carto/build/py_topic_pkg/build install --record /home/keti/turtle_carto/build/py_topic_pkg/install.log --install-scripts $base/lib/py_topic_pkg --single-version-externally-managed
+[0.937s] running egg_info
+[0.937s] writing ../../../build/py_topic_pkg/py_topic_pkg.egg-info/PKG-INFO
+[0.937s] writing dependency_links to ../../../build/py_topic_pkg/py_topic_pkg.egg-info/dependency_links.txt
+[0.937s] writing entry points to ../../../build/py_topic_pkg/py_topic_pkg.egg-info/entry_points.txt
+[0.937s] writing requirements to ../../../build/py_topic_pkg/py_topic_pkg.egg-info/requires.txt
+[0.938s] writing top-level names to ../../../build/py_topic_pkg/py_topic_pkg.egg-info/top_level.txt
+[0.955s] reading manifest file '../../../build/py_topic_pkg/py_topic_pkg.egg-info/SOURCES.txt'
+[0.956s] writing manifest file '../../../build/py_topic_pkg/py_topic_pkg.egg-info/SOURCES.txt'
+[0.956s] running build
+[0.956s] running build_py
+[0.956s] running install
+[0.956s] running install_lib
+[0.957s] running install_data
+[0.957s] running install_egg_info
+[0.958s] removing '/home/keti/turtle_carto/install/py_topic_pkg/lib/python3.8/site-packages/py_topic_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.958s] Copying ../../../build/py_topic_pkg/py_topic_pkg.egg-info to /home/keti/turtle_carto/install/py_topic_pkg/lib/python3.8/site-packages/py_topic_pkg-0.0.0-py3.8.egg-info
+[0.959s] running install_scripts
+[0.968s] Installing cmd_vel_pub_node script to /home/keti/turtle_carto/install/py_topic_pkg/lib/py_topic_pkg
+[0.968s] Installing endless_cmd_vel_pub_node script to /home/keti/turtle_carto/install/py_topic_pkg/lib/py_topic_pkg
+[0.968s] Installing laser_raw_node script to /home/keti/turtle_carto/install/py_topic_pkg/lib/py_topic_pkg
+[0.968s] Installing laser_sub_node script to /home/keti/turtle_carto/install/py_topic_pkg/lib/py_topic_pkg
+[0.968s] Installing parking_node script to /home/keti/turtle_carto/install/py_topic_pkg/lib/py_topic_pkg
+[0.968s] writing list of installed files to '/home/keti/turtle_carto/build/py_topic_pkg/install.log'
+[1.490s] Invoked command in '/home/keti/turtle_carto/src/gcamp_ros2_basic/py_topic_pkg' returned '0': PYTHONPATH=/home/keti/turtle_carto/build/py_topic_pkg/prefix_override:/home/keti/turtle_carto/install/py_topic_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/py_topic_pkg build --build-base /home/keti/turtle_carto/build/py_topic_pkg/build install --record /home/keti/turtle_carto/build/py_topic_pkg/install.log --install-scripts $base/lib/py_topic_pkg --single-version-externally-managed

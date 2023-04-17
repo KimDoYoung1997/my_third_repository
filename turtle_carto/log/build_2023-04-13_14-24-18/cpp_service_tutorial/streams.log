@@ -1,0 +1,24 @@
+[0.149s] Invoking command in '/home/keti/turtle_carto/build/cpp_service_tutorial': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_service_tutorial -- -j24 -l24
+[0.453s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.453s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.453s] -- Configuring incomplete, errors occurred!
+[0.453s] See also "/home/keti/turtle_carto/build/cpp_service_tutorial/CMakeFiles/CMakeOutput.log".
+[0.453s] See also "/home/keti/turtle_carto/build/cpp_service_tutorial/CMakeFiles/CMakeError.log".
+[0.454s] Traceback (most recent call last):
+[0.454s]   File "/opt/ros/foxy/share/ament_cmake_core/cmake/package_templates/templates_2_cmake.py", line 21, in <module>
+[0.454s]     from ament_package.templates import get_environment_hook_template_path
+[0.454s] ModuleNotFoundError: No module named 'ament_package'
+[0.454s] CMake Error at /opt/ros/foxy/share/ament_cmake_core/cmake/ament_cmake_package_templates-extras.cmake:41 (message):
+[0.454s]   execute_process(/usr/bin/python3
+[0.455s]   /opt/ros/foxy/share/ament_cmake_core/cmake/package_templates/templates_2_cmake.py
+[0.455s]   /home/keti/turtle_carto/build/cpp_service_tutorial/ament_cmake_package_templates/templates.cmake)
+[0.455s]   returned error code 1
+[0.455s] Call Stack (most recent call first):
+[0.455s]   /opt/ros/foxy/share/ament_cmake_core/cmake/ament_cmake_coreConfig.cmake:41 (include)
+[0.455s]   /opt/ros/foxy/share/ament_cmake/cmake/ament_cmake_export_dependencies-extras.cmake:15 (find_package)
+[0.455s]   /opt/ros/foxy/share/ament_cmake/cmake/ament_cmakeConfig.cmake:41 (include)
+[0.455s]   CMakeLists.txt:19 (find_package)
+[0.455s] 
+[0.455s] 
+[0.455s] make: *** [Makefile:398: cmake_check_build_system] Error 1
+[0.475s] Invoked command in '/home/keti/turtle_carto/build/cpp_service_tutorial' returned '2': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_service_tutorial -- -j24 -l24

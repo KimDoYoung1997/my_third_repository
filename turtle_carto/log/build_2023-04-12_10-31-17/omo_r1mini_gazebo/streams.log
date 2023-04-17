@@ -1,0 +1,83 @@
+[0.360s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_gazebo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_gazebo -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/omo_r1mini_gazebo
+[0.370s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.379s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.379s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.481s] -- Found gazebo_ros_pkgs: 3.5.3 (/opt/ros/foxy/share/gazebo_ros_pkgs/cmake)
+[0.482s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.499s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.502s] -- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.555s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.578s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.650s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.693s] -- Found nav_msgs: 2.0.5 (/opt/ros/foxy/share/nav_msgs/cmake)
+[0.734s] -- Found rclcpp: 2.4.2 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.757s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.758s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.758s] -- Looking for pthread.h
+[0.795s] -- Looking for pthread.h - found
+[0.795s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.842s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[0.842s] -- Looking for pthread_create in pthreads
+[0.882s] -- Looking for pthread_create in pthreads - not found
+[0.883s] -- Looking for pthread_create in pthread
+[0.921s] -- Looking for pthread_create in pthread - found
+[0.921s] -- Found Threads: TRUE  
+[1.029s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[1.041s] -- Found tf2: 0.13.14 (/opt/ros/foxy/share/tf2/cmake)
+[1.086s] -- Configuring done
+[1.088s] -- Generating done
+[1.088s] -- Build files have been written to: /home/keti/turtle_carto/build/omo_r1mini_gazebo
+[1.102s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_gazebo -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/omo_r1mini_gazebo
+[1.105s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_gazebo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_gazebo -- -j24 -l24
+[1.168s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_gazebo -- -j24 -l24
+[1.207s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_gazebo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/omo_r1mini_gazebo
+[1.218s] -- Install configuration: ""
+[1.218s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//launch
+[1.218s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//launch/robot_state_publisher.launch.py
+[1.218s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//launch/omo_r1mini.launch.py
+[1.218s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//launch/empty_world.launch.py
+[1.218s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models
+[1.218s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini
+[1.218s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes
+[1.218s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes/sensors
+[1.218s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes/sensors/ydlidar_assy.dae
+[1.219s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes/wheels
+[1.219s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes/wheels/caster_wheel.dae
+[1.220s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes/wheels/caster_wheel_rotate.dae
+[1.220s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes/wheels/caster_wheel_mount.dae
+[1.221s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes/wheels/wheel_assy.dae
+[1.246s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes/bases
+[1.246s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes/bases/housing_body.dae
+[1.250s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/meshes/bases/body_assy.dae
+[1.253s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/model.config
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/omo_r1mini/model.sdf
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/turtlebot3_world
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/turtlebot3_world/meshes
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/turtlebot3_world/meshes/hexagon.dae
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/turtlebot3_world/meshes/wall.dae
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/turtlebot3_world/model.config
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//models/turtlebot3_world/model.sdf
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//rviz
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//rviz/tb3_gazebo.rviz
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//worlds
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//worlds/empty_worlds
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//worlds/empty_worlds/omo_r1mini.model
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//worlds/turtlebot3_worlds
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo//worlds/turtlebot3_worlds/omo_r1mini.model
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/ament_index/resource_index/package_run_dependencies/omo_r1mini_gazebo
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/ament_index/resource_index/parent_prefix_path/omo_r1mini_gazebo
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/environment/ament_prefix_path.sh
+[1.254s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/environment/ament_prefix_path.dsv
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/environment/path.sh
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/environment/path.dsv
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/local_setup.bash
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/local_setup.sh
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/local_setup.zsh
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/local_setup.dsv
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/package.dsv
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/ament_index/resource_index/packages/omo_r1mini_gazebo
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/cmake/omo_r1mini_gazeboConfig.cmake
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/cmake/omo_r1mini_gazeboConfig-version.cmake
+[1.255s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_gazebo/share/omo_r1mini_gazebo/package.xml
+[1.263s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/omo_r1mini_gazebo

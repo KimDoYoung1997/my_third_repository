@@ -1,0 +1,6 @@
+Invoking command in '/home/keti/turtle_carto/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/teleop_twist_joy -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/teleop_twist_joy
+Invoked command in '/home/keti/turtle_carto/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/teleop_twist_joy -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/teleop_twist_joy
+Invoking command in '/home/keti/turtle_carto/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/teleop_twist_joy -- -j24 -l24
+Invoked command in '/home/keti/turtle_carto/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/teleop_twist_joy -- -j24 -l24
+Invoking command in '/home/keti/turtle_carto/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/teleop_twist_joy
+Invoked command in '/home/keti/turtle_carto/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/teleop_twist_joy

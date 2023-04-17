@@ -1,0 +1,85 @@
+[0.180s] Invoking command in '/home/keti/turtle_carto/build/cpp_topic_pkg': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_topic_pkg -- -j24 -l24
+[0.540s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.540s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.540s] -- Found rclcpp: 2.4.2 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.540s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.540s] -- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.540s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.540s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.540s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.540s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[0.540s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.580s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.581s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.581s] -- Configured cppcheck include dirs: 
+[0.581s] -- Configured cppcheck exclude dirs and/or files: 
+[0.581s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.581s] -- Configured cpplint exclude dirs and/or files: 
+[0.583s] -- Added test 'lint_cmake' to check CMake code style
+[0.583s] -- Added test 'uncrustify' to check C / C++ code style
+[0.583s] -- Configured uncrustify additional arguments: 
+[0.583s] -- Added test 'xmllint' to check XML markup files
+[0.584s] -- Configuring done
+[0.608s] -- Generating done
+[0.608s] -- Build files have been written to: /home/keti/turtle_carto/build/cpp_topic_pkg
+[0.626s] [35m[1mScanning dependencies of target topic_sub_oop_node[0m
+[0.626s] [35m[1mScanning dependencies of target cmd_vel_pub_node[0m
+[0.626s] [35m[1mScanning dependencies of target topic_pub_node[0m
+[0.627s] [35m[1mScanning dependencies of target laser_sub_node[0m
+[0.634s] [35m[1mScanning dependencies of target topic_pub_oop_node[0m
+[0.635s] [35m[1mScanning dependencies of target parking_node[0m
+[0.677s] [35m[1mScanning dependencies of target topic_sub_node[0m
+[0.677s] [  7%] [32mBuilding CXX object CMakeFiles/cmd_vel_pub_node.dir/src/cmd_vel_pub.cpp.o[0m
+[0.677s] [ 14%] [32mBuilding CXX object CMakeFiles/laser_sub_node.dir/src/laser_sub.cpp.o[0m
+[0.693s] [ 21%] [32mBuilding CXX object CMakeFiles/topic_pub_oop_node.dir/src/topic_pub_oop.cpp.o[0m
+[0.694s] [ 28%] [32mBuilding CXX object CMakeFiles/topic_sub_oop_node.dir/src/topic_sub_oop.cpp.o[0m
+[0.704s] [ 35%] [32mBuilding CXX object CMakeFiles/topic_pub_node.dir/src/topic_pub.cpp.o[0m
+[0.724s] [ 42%] [32mBuilding CXX object CMakeFiles/parking_node.dir/src/parking.cpp.o[0m
+[0.725s] [ 50%] [32mBuilding CXX object CMakeFiles/topic_sub_node.dir/src/topic_sub.cpp.o[0m
+[2.858s] [ 57%] [32m[1mLinking CXX executable topic_pub_oop_node[0m
+[2.862s] [ 64%] [32m[1mLinking CXX executable cmd_vel_pub_node[0m
+[3.022s] [ 64%] Built target topic_pub_oop_node
+[3.041s] [ 64%] Built target cmd_vel_pub_node
+[3.246s] [ 71%] [32m[1mLinking CXX executable topic_pub_node[0m
+[3.332s] [ 71%] Built target topic_pub_node
+[3.852s] [ 78%] [32m[1mLinking CXX executable topic_sub_node[0m
+[3.993s] [ 78%] Built target topic_sub_node
+[4.004s] [ 85%] [32m[1mLinking CXX executable topic_sub_oop_node[0m
+[4.129s] [ 85%] Built target topic_sub_oop_node
+[4.758s] [ 92%] [32m[1mLinking CXX executable laser_sub_node[0m
+[4.876s] [100%] [32m[1mLinking CXX executable parking_node[0m
+[4.886s] [100%] Built target laser_sub_node
+[4.983s] [100%] Built target parking_node
+[4.988s] Invoked command in '/home/keti/turtle_carto/build/cpp_topic_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_topic_pkg -- -j24 -l24
+[5.007s] Invoking command in '/home/keti/turtle_carto/build/cpp_topic_pkg': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_topic_pkg
+[5.011s] -- Install configuration: ""
+[5.011s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/cmd_vel_pub_node
+[5.012s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/cmd_vel_pub_node" to ""
+[5.012s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/laser_sub_node
+[5.013s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/laser_sub_node" to ""
+[5.013s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/parking_node
+[5.014s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/parking_node" to ""
+[5.015s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/topic_pub_node
+[5.015s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/topic_pub_node" to ""
+[5.015s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/topic_pub_oop_node
+[5.016s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/topic_pub_oop_node" to ""
+[5.016s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/topic_sub_node
+[5.017s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/topic_sub_node" to ""
+[5.017s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/topic_sub_oop_node
+[5.018s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_topic_pkg/lib/cpp_topic_pkg/topic_sub_oop_node" to ""
+[5.018s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_topic_pkg/share/ament_index/resource_index/package_run_dependencies/cpp_topic_pkg
+[5.018s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/share/ament_index/resource_index/parent_prefix_path/cpp_topic_pkg
+[5.018s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/environment/ament_prefix_path.sh
+[5.018s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/environment/ament_prefix_path.dsv
+[5.018s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/environment/path.sh
+[5.018s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/environment/path.dsv
+[5.018s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/local_setup.bash
+[5.018s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/local_setup.sh
+[5.018s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/local_setup.zsh
+[5.018s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/local_setup.dsv
+[5.018s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/package.dsv
+[5.018s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_topic_pkg/share/ament_index/resource_index/packages/cpp_topic_pkg
+[5.018s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/cmake/cpp_topic_pkgConfig.cmake
+[5.019s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/cmake/cpp_topic_pkgConfig-version.cmake
+[5.019s] -- Installing: /home/keti/turtle_carto/install/cpp_topic_pkg/share/cpp_topic_pkg/package.xml
+[5.020s] Invoked command in '/home/keti/turtle_carto/build/cpp_topic_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_topic_pkg

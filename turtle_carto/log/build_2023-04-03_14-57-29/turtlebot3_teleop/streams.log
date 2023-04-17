@@ -1,0 +1,42 @@
+[0.864s] Invoking command in '/home/keti/turtle_carto/src/turtlebot3/turtlebot3_teleop': PYTHONPATH=/home/keti/turtle_carto/build/turtlebot3_teleop/prefix_override:/home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/turtlebot3_teleop build --build-base /home/keti/turtle_carto/build/turtlebot3_teleop/build install --record /home/keti/turtle_carto/build/turtlebot3_teleop/install.log --single-version-externally-managed
+[0.963s] running egg_info
+[0.963s] creating ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info
+[0.964s] writing ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/PKG-INFO
+[0.964s] writing dependency_links to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/dependency_links.txt
+[0.964s] writing entry points to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/entry_points.txt
+[0.964s] writing requirements to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/requires.txt
+[0.964s] writing top-level names to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/top_level.txt
+[0.964s] writing manifest file '../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[0.979s] reading manifest file '../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[0.980s] writing manifest file '../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[0.980s] running build
+[0.980s] running build_py
+[0.980s] creating /home/keti/turtle_carto/build/turtlebot3_teleop/build
+[0.980s] creating /home/keti/turtle_carto/build/turtlebot3_teleop/build/lib
+[0.980s] creating /home/keti/turtle_carto/build/turtlebot3_teleop/build/lib/turtlebot3_teleop
+[0.980s] copying turtlebot3_teleop/__init__.py -> /home/keti/turtle_carto/build/turtlebot3_teleop/build/lib/turtlebot3_teleop
+[0.980s] creating /home/keti/turtle_carto/build/turtlebot3_teleop/build/lib/turtlebot3_teleop/script
+[0.980s] copying turtlebot3_teleop/script/__init__.py -> /home/keti/turtle_carto/build/turtlebot3_teleop/build/lib/turtlebot3_teleop/script
+[0.980s] copying turtlebot3_teleop/script/teleop_keyboard.py -> /home/keti/turtle_carto/build/turtlebot3_teleop/build/lib/turtlebot3_teleop/script
+[0.980s] running install
+[0.981s] running install_lib
+[0.981s] creating /home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop
+[0.981s] copying /home/keti/turtle_carto/build/turtlebot3_teleop/build/lib/turtlebot3_teleop/__init__.py -> /home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop
+[0.981s] creating /home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop/script
+[0.981s] copying /home/keti/turtle_carto/build/turtlebot3_teleop/build/lib/turtlebot3_teleop/script/__init__.py -> /home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop/script
+[0.981s] copying /home/keti/turtle_carto/build/turtlebot3_teleop/build/lib/turtlebot3_teleop/script/teleop_keyboard.py -> /home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop/script
+[0.981s] byte-compiling /home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop/__init__.py to __init__.cpython-38.pyc
+[0.982s] byte-compiling /home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop/script/__init__.py to __init__.cpython-38.pyc
+[0.982s] byte-compiling /home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop/script/teleop_keyboard.py to teleop_keyboard.cpython-38.pyc
+[0.982s] running install_data
+[0.982s] creating /home/keti/turtle_carto/install/turtlebot3_teleop/share/ament_index
+[0.983s] creating /home/keti/turtle_carto/install/turtlebot3_teleop/share/ament_index/resource_index
+[0.983s] creating /home/keti/turtle_carto/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[0.983s] copying resource/turtlebot3_teleop -> /home/keti/turtle_carto/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[0.983s] copying package.xml -> /home/keti/turtle_carto/install/turtlebot3_teleop/share/turtlebot3_teleop
+[0.983s] running install_egg_info
+[0.983s] Copying ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info to /home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop-2.1.4-py3.8.egg-info
+[0.984s] running install_scripts
+[0.992s] Installing teleop_keyboard script to /home/keti/turtle_carto/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[0.992s] writing list of installed files to '/home/keti/turtle_carto/build/turtlebot3_teleop/install.log'
+[1.004s] Invoked command in '/home/keti/turtle_carto/src/turtlebot3/turtlebot3_teleop' returned '0': PYTHONPATH=/home/keti/turtle_carto/build/turtlebot3_teleop/prefix_override:/home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/turtlebot3_teleop build --build-base /home/keti/turtle_carto/build/turtlebot3_teleop/build install --record /home/keti/turtle_carto/build/turtlebot3_teleop/install.log --single-version-externally-managed

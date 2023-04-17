@@ -1,0 +1,453 @@
+[0.006s] Invoking command in '/home/keti/turtle_carto/build/dwb_msgs': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/keti/turtle_carto/src/ros-planning/navigation2/nav2_dwb_controller/dwb_msgs -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/dwb_msgs
+[0.032s] -- The C compiler identification is GNU 9.4.0
+[0.058s] -- The CXX compiler identification is GNU 9.4.0
+[0.060s] -- Check for working C compiler: /usr/bin/cc
+[0.092s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.092s] -- Detecting C compiler ABI info
+[0.122s] -- Detecting C compiler ABI info - done
+[0.131s] -- Detecting C compile features
+[0.131s] -- Detecting C compile features - done
+[0.133s] -- Check for working CXX compiler: /usr/bin/c++
+[0.169s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.170s] -- Detecting CXX compiler ABI info
+[0.207s] -- Detecting CXX compiler ABI info - done
+[0.212s] -- Detecting CXX compile features
+[0.212s] -- Detecting CXX compile features - done
+[0.213s] -- Found builtin_interfaces: 1.0.0 (/opt/ros/foxy/share/builtin_interfaces/cmake)
+[0.226s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.226s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.330s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.333s] -- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.371s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.386s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.427s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.441s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.471s] -- Found nav_2d_msgs: 1.0.12 (/home/keti/turtle_carto/install/nav_2d_msgs/share/nav_2d_msgs/cmake)
+[0.505s] -- Found nav_msgs: 2.0.5 (/opt/ros/foxy/share/nav_msgs/cmake)
+[0.542s] -- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[0.566s] -- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+[0.680s] -- Found ament_cmake_ros: 0.9.2 (/opt/ros/foxy/share/ament_cmake_ros/cmake)
+[0.811s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.872s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.885s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[0.885s] -- Found python_cmake_module: 0.8.1 (/opt/ros/foxy/share/python_cmake_module/cmake)
+[0.899s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[0.899s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.899s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[0.899s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[0.909s] -- Found PythonExtra: .so  
+[0.970s] -- Configuring done
+[1.009s] -- Generating done
+[1.010s] -- Build files have been written to: /home/keti/turtle_carto/build/dwb_msgs
+[1.016s] Invoked command in '/home/keti/turtle_carto/build/dwb_msgs' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/keti/turtle_carto/src/ros-planning/navigation2/nav2_dwb_controller/dwb_msgs -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/dwb_msgs
+[1.018s] Invoking command in '/home/keti/turtle_carto/build/dwb_msgs': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/keti/turtle_carto/build/dwb_msgs -- -j24 -l24
+[1.038s] [35m[1mScanning dependencies of target dwb_msgs__cpp[0m
+[1.041s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.043s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.504s] [  2%] Built target dwb_msgs__cpp
+[1.511s] [  5%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.511s] [  5%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.511s] [  5%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.586s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_generator_c[0m
+[1.597s] [  6%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_generator_c.dir/rosidl_generator_c/dwb_msgs/msg/detail/trajectory_score__functions.c.o[0m
+[1.598s] [  7%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_generator_c.dir/rosidl_generator_c/dwb_msgs/srv/detail/generate_trajectory__functions.c.o[0m
+[1.598s] [  9%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_generator_c.dir/rosidl_generator_c/dwb_msgs/msg/detail/critic_score__functions.c.o[0m
+[1.598s] [  9%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_generator_c.dir/rosidl_generator_c/dwb_msgs/msg/detail/local_plan_evaluation__functions.c.o[0m
+[1.598s] [ 11%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_generator_c.dir/rosidl_generator_c/dwb_msgs/msg/detail/trajectory2_d__functions.c.o[0m
+[1.598s] [ 11%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_generator_c.dir/rosidl_generator_c/dwb_msgs/srv/detail/generate_twists__functions.c.o[0m
+[1.598s] [ 12%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_generator_c.dir/rosidl_generator_c/dwb_msgs/srv/detail/get_critic_score__functions.c.o[0m
+[1.598s] [ 13%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_generator_c.dir/rosidl_generator_c/dwb_msgs/srv/detail/debug_local_plan__functions.c.o[0m
+[1.599s] [ 14%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_generator_c.dir/rosidl_generator_c/dwb_msgs/srv/detail/score_trajectory__functions.c.o[0m
+[1.642s] [ 15%] [32m[1mLinking C shared library libdwb_msgs__rosidl_generator_c.so[0m
+[1.673s] [ 15%] Built target dwb_msgs__rosidl_generator_c
+[1.682s] [ 16%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.683s] [ 17%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[1.795s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_cpp[0m
+[1.815s] [ 24%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/dwb_msgs/msg/local_plan_evaluation__type_support.cpp.o[0m
+[1.815s] [ 24%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/dwb_msgs/msg/critic_score__type_support.cpp.o[0m
+[1.815s] [ 24%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/dwb_msgs/msg/trajectory2_d__type_support.cpp.o[0m
+[1.815s] [ 24%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/dwb_msgs/msg/trajectory_score__type_support.cpp.o[0m
+[1.815s] [ 24%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/dwb_msgs/srv/generate_trajectory__type_support.cpp.o[0m
+[1.815s] [ 24%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/dwb_msgs/srv/debug_local_plan__type_support.cpp.o[0m
+[1.815s] [ 25%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/dwb_msgs/srv/score_trajectory__type_support.cpp.o[0m
+[1.815s] [ 26%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/dwb_msgs/srv/get_critic_score__type_support.cpp.o[0m
+[1.816s] [ 27%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/dwb_msgs/srv/generate_twists__type_support.cpp.o[0m
+[1.865s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_introspection_cpp[0m
+[1.878s] [ 28%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/dwb_msgs/msg/detail/critic_score__type_support.cpp.o[0m
+[1.878s] [ 29%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/dwb_msgs/msg/detail/trajectory2_d__type_support.cpp.o[0m
+[1.879s] [ 30%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/dwb_msgs/msg/detail/local_plan_evaluation__type_support.cpp.o[0m
+[1.879s] [ 31%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/dwb_msgs/msg/detail/trajectory_score__type_support.cpp.o[0m
+[1.882s] [ 32%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/dwb_msgs/srv/detail/debug_local_plan__type_support.cpp.o[0m
+[1.883s] [ 33%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/dwb_msgs/srv/detail/generate_twists__type_support.cpp.o[0m
+[1.888s] [ 34%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/dwb_msgs/srv/detail/get_critic_score__type_support.cpp.o[0m
+[1.899s] [ 35%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/dwb_msgs/srv/detail/generate_trajectory__type_support.cpp.o[0m
+[1.915s] [ 36%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/dwb_msgs/srv/detail/score_trajectory__type_support.cpp.o[0m
+[2.042s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[2.061s] [ 37%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/dwb_msgs/msg/detail/dds_fastrtps/critic_score__type_support.cpp.o[0m
+[2.061s] [ 38%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/dwb_msgs/srv/detail/dds_fastrtps/debug_local_plan__type_support.cpp.o[0m
+[2.062s] [ 40%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/dwb_msgs/msg/detail/dds_fastrtps/trajectory2_d__type_support.cpp.o[0m
+[2.066s] [ 41%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/dwb_msgs/msg/detail/dds_fastrtps/local_plan_evaluation__type_support.cpp.o[0m
+[2.068s] [ 42%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/dwb_msgs/msg/detail/dds_fastrtps/trajectory_score__type_support.cpp.o[0m
+[2.075s] [ 43%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/dwb_msgs/srv/detail/dds_fastrtps/generate_twists__type_support.cpp.o[0m
+[2.079s] [ 44%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/dwb_msgs/srv/detail/dds_fastrtps/generate_trajectory__type_support.cpp.o[0m
+[2.118s] [ 45%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/dwb_msgs/srv/detail/dds_fastrtps/get_critic_score__type_support.cpp.o[0m
+[2.127s] [ 46%] [32m[1mLinking CXX shared library libdwb_msgs__rosidl_typesupport_cpp.so[0m
+[2.132s] [ 47%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/dwb_msgs/srv/detail/dds_fastrtps/score_trajectory__type_support.cpp.o[0m
+[2.214s] [ 47%] Built target dwb_msgs__rosidl_typesupport_cpp
+[2.262s] [ 48%] [32m[1mLinking CXX shared library libdwb_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[2.286s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_introspection_c[0m
+[2.359s] [ 49%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/dwb_msgs/msg/detail/critic_score__type_support.c.o[0m
+[2.364s] [ 50%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/dwb_msgs/msg/detail/local_plan_evaluation__type_support.c.o[0m
+[2.387s] [ 51%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/dwb_msgs/msg/detail/trajectory2_d__type_support.c.o[0m
+[2.395s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_c[0m
+[2.443s] [ 53%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/dwb_msgs/msg/critic_score__type_support.cpp.o[0m
+[2.444s] [ 53%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/dwb_msgs/msg/local_plan_evaluation__type_support.cpp.o[0m
+[2.449s] [ 54%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/dwb_msgs/srv/detail/generate_trajectory__type_support.c.o[0m
+[2.450s] [ 55%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/dwb_msgs/msg/detail/trajectory_score__type_support.c.o[0m
+[2.463s] [ 56%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/dwb_msgs/msg/trajectory_score__type_support.cpp.o[0m
+[2.463s] [ 57%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/dwb_msgs/msg/trajectory2_d__type_support.cpp.o[0m
+[2.463s] [ 58%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/dwb_msgs/srv/detail/debug_local_plan__type_support.c.o[0m
+[2.483s] [ 60%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/dwb_msgs/srv/detail/generate_twists__type_support.c.o[0m
+[2.490s] [ 61%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/dwb_msgs/srv/generate_trajectory__type_support.cpp.o[0m
+[2.495s] [ 62%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/dwb_msgs/srv/debug_local_plan__type_support.cpp.o[0m
+[2.495s] [ 62%] Built target dwb_msgs__rosidl_typesupport_introspection_cpp
+[2.510s] [ 63%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/dwb_msgs/srv/get_critic_score__type_support.cpp.o[0m
+[2.512s] [ 64%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/dwb_msgs/srv/generate_twists__type_support.cpp.o[0m
+[2.515s] [ 65%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/dwb_msgs/srv/detail/get_critic_score__type_support.c.o[0m
+[2.536s] [ 66%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/dwb_msgs/srv/detail/score_trajectory__type_support.c.o[0m
+[2.546s] [ 67%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/dwb_msgs/srv/score_trajectory__type_support.cpp.o[0m
+[2.578s] [ 68%] [32m[1mLinking C shared library libdwb_msgs__rosidl_typesupport_introspection_c.so[0m
+[2.601s] [ 69%] [32m[1mLinking CXX shared library libdwb_msgs__rosidl_typesupport_c.so[0m
+[2.616s] [ 69%] Built target dwb_msgs__rosidl_typesupport_introspection_c
+[2.641s] [ 70%] [32m[1mLinking CXX shared library libdwb_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[2.647s] [ 70%] Built target dwb_msgs__rosidl_typesupport_c
+[2.744s] [ 70%] Built target dwb_msgs__rosidl_typesupport_fastrtps_cpp
+[2.768s] [ 71%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[3.598s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_fastrtps_c[0m
+[3.622s] [ 72%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/dwb_msgs/msg/detail/critic_score__type_support_c.cpp.o[0m
+[3.623s] [ 74%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/dwb_msgs/msg/detail/local_plan_evaluation__type_support_c.cpp.o[0m
+[3.624s] [ 74%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/dwb_msgs/msg/detail/trajectory2_d__type_support_c.cpp.o[0m
+[3.631s] [ 76%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/dwb_msgs/msg/detail/trajectory_score__type_support_c.cpp.o[0m
+[3.631s] [ 76%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/dwb_msgs/srv/detail/debug_local_plan__type_support_c.cpp.o[0m
+[3.663s] [ 77%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/dwb_msgs/srv/detail/generate_twists__type_support_c.cpp.o[0m
+[3.668s] [ 78%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/dwb_msgs/srv/detail/generate_trajectory__type_support_c.cpp.o[0m
+[3.680s] [ 80%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/dwb_msgs/srv/detail/get_critic_score__type_support_c.cpp.o[0m
+[3.698s] [ 81%] [32mBuilding CXX object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/dwb_msgs/srv/detail/score_trajectory__type_support_c.cpp.o[0m
+[3.986s] [ 82%] [32m[1mLinking CXX shared library libdwb_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[4.043s] [ 82%] Built target dwb_msgs__rosidl_typesupport_fastrtps_c
+[4.047s] [35m[1mScanning dependencies of target dwb_msgs[0m
+[4.052s] [ 82%] Built target dwb_msgs
+[4.057s] [35m[1mScanning dependencies of target dwb_msgs__py[0m
+[4.062s] [ 83%] [34m[1mGenerating Python code for ROS interfaces[0m
+[4.825s] [ 83%] Built target dwb_msgs__py
+[4.829s] [35m[1mScanning dependencies of target dwb_msgs__python[0m
+[4.845s] [ 86%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/msg/_critic_score_s.c.o[0m
+[4.845s] [ 86%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/msg/_local_plan_evaluation_s.c.o[0m
+[4.845s] [ 86%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/msg/_trajectory2_d_s.c.o[0m
+[4.847s] [ 89%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/srv/_debug_local_plan_s.c.o[0m
+[4.847s] [ 89%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/msg/_trajectory_score_s.c.o[0m
+[4.847s] [ 89%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/srv/_generate_trajectory_s.c.o[0m
+[4.847s] [ 92%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/srv/_get_critic_score_s.c.o[0m
+[4.847s] [ 92%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/srv/_generate_twists_s.c.o[0m
+[4.847s] [ 92%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/srv/_score_trajectory_s.c.o[0m
+[4.915s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/dwb_msgs/libdwb_msgs__python.so[0m
+[4.940s] [ 93%] Built target dwb_msgs__python
+[4.945s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_c__pyext[0m
+[4.945s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[4.945s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[4.954s] [ 94%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/dwb_msgs/_dwb_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[4.954s] [ 95%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/dwb_msgs/_dwb_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[4.955s] [ 96%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/dwb_msgs/_dwb_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[5.011s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/dwb_msgs/dwb_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so[0m
+[5.011s] [ 98%] [32m[1mLinking CXX shared library rosidl_generator_py/dwb_msgs/dwb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so[0m
+[5.011s] [100%] [32m[1mLinking C shared library rosidl_generator_py/dwb_msgs/dwb_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so[0m
+[5.031s] [100%] Built target dwb_msgs__rosidl_typesupport_c__pyext
+[5.031s] [100%] Built target dwb_msgs__rosidl_typesupport_introspection_c__pyext
+[5.046s] [100%] Built target dwb_msgs__rosidl_typesupport_fastrtps_c__pyext
+[5.052s] Invoked command in '/home/keti/turtle_carto/build/dwb_msgs' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/keti/turtle_carto/build/dwb_msgs -- -j24 -l24
+[5.117s] Invoking command in '/home/keti/turtle_carto/build/dwb_msgs': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/keti/turtle_carto/build/dwb_msgs
+[5.123s] -- Install configuration: ""
+[5.123s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/ament_index/resource_index/rosidl_interfaces/dwb_msgs
+[5.123s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs
+[5.123s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg
+[5.123s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/rosidl_generator_c__visibility_control.h
+[5.123s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/trajectory2_d.h
+[5.123s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/local_plan_evaluation.h
+[5.123s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail
+[5.123s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__struct.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__type_support.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__struct.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__functions.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__type_support.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__type_support.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__struct.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__functions.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__functions.c
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__type_support.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__functions.c
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__functions.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__functions.c
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__functions.c
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__struct.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__functions.h
+[5.124s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/trajectory_score.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/critic_score.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/get_critic_score.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__functions.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__functions.c
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__type_support.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__functions.c
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__struct.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__struct.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__struct.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__functions.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__struct.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__functions.c
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__type_support.h
+[5.125s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__type_support.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__functions.c
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__struct.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__functions.c
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__type_support.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__functions.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__type_support.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__functions.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__functions.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/generate_trajectory.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/score_trajectory.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/debug_local_plan.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/generate_twists.h
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/environment/library_path.sh
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/environment/library_path.dsv
+[5.126s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_generator_c.so
+[5.127s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_generator_c.so" to ""
+[5.127s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs
+[5.127s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg
+[5.127s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[5.127s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail
+[5.127s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__rosidl_typesupport_fastrtps_c.h
+[5.127s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__rosidl_typesupport_fastrtps_c.h
+[5.127s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__rosidl_typesupport_fastrtps_c.h
+[5.127s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__rosidl_typesupport_fastrtps_c.h
+[5.127s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv
+[5.128s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__rosidl_typesupport_fastrtps_c.h
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__rosidl_typesupport_fastrtps_c.h
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__rosidl_typesupport_fastrtps_c.h
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__rosidl_typesupport_fastrtps_c.h
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__rosidl_typesupport_fastrtps_c.h
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_fastrtps_c.so
+[5.128s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[5.128s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs
+[5.128s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg
+[5.128s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/dds_fastrtps
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__rosidl_typesupport_fastrtps_cpp.hpp
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__rosidl_typesupport_fastrtps_cpp.hpp
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__rosidl_typesupport_fastrtps_cpp.hpp
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__rosidl_typesupport_fastrtps_cpp.hpp
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[5.128s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv
+[5.128s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/dds_fastrtps
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__rosidl_typesupport_fastrtps_cpp.hpp
+[5.128s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__rosidl_typesupport_fastrtps_cpp.hpp
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__rosidl_typesupport_fastrtps_cpp.hpp
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_fastrtps_cpp.so
+[5.129s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[5.129s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs
+[5.129s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg
+[5.129s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__type_support.c
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__type_support.c
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__rosidl_typesupport_introspection_c.h
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__type_support.c
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__rosidl_typesupport_introspection_c.h
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__rosidl_typesupport_introspection_c.h
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__rosidl_typesupport_introspection_c.h
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__type_support.c
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[5.129s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv
+[5.129s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__type_support.c
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__type_support.c
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__type_support.c
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__type_support.c
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__type_support.c
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__rosidl_typesupport_introspection_c.h
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__rosidl_typesupport_introspection_c.h
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__rosidl_typesupport_introspection_c.h
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__rosidl_typesupport_introspection_c.h
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__rosidl_typesupport_introspection_c.h
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_introspection_c.so
+[5.129s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_introspection_c.so" to ""
+[5.129s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_c.so
+[5.129s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_c.so" to ""
+[5.129s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs
+[5.130s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/trajectory2_d.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/critic_score.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/trajectory_score.hpp
+[5.130s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__struct.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__traits.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__struct.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__struct.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__traits.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__builder.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__builder.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__traits.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__builder.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__struct.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__traits.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__builder.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/local_plan_evaluation.hpp
+[5.130s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/score_trajectory.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/generate_trajectory.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/generate_twists.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/get_critic_score.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/debug_local_plan.hpp
+[5.130s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__traits.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__builder.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__traits.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__builder.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__builder.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__builder.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__traits.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__struct.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__traits.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__builder.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__struct.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__struct.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__traits.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__struct.hpp
+[5.130s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__struct.hpp
+[5.130s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs
+[5.131s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg
+[5.131s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__rosidl_typesupport_introspection_cpp.hpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__type_support.cpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__type_support.cpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__rosidl_typesupport_introspection_cpp.hpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__type_support.cpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__type_support.cpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__rosidl_typesupport_introspection_cpp.hpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__rosidl_typesupport_introspection_cpp.hpp
+[5.131s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv
+[5.131s] -- Up-to-date: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__rosidl_typesupport_introspection_cpp.hpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__rosidl_typesupport_introspection_cpp.hpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__type_support.cpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__rosidl_typesupport_introspection_cpp.hpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__type_support.cpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__rosidl_typesupport_introspection_cpp.hpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__type_support.cpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__rosidl_typesupport_introspection_cpp.hpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__type_support.cpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__type_support.cpp
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_introspection_cpp.so
+[5.131s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_cpp.so
+[5.131s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_cpp.so" to ""
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/environment/pythonpath.sh
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/environment/pythonpath.dsv
+[5.131s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/__init__.py
+[5.144s] Compiling '/home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/__init__.py'...
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_trajectory2_d.py
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_trajectory2_d_s.c
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/__init__.py
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_trajectory_score.py
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_trajectory_score_s.c
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_local_plan_evaluation_s.c
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_local_plan_evaluation.py
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_critic_score.py
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_critic_score_s.c
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_get_critic_score.py
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_debug_local_plan_s.c
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_generate_twists_s.c
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/__init__.py
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_debug_local_plan.py
+[5.146s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_generate_trajectory.py
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_generate_trajectory_s.c
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_score_trajectory_s.c
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_generate_twists.py
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_get_critic_score_s.c
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_score_trajectory.py
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[5.147s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so" to ""
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[5.147s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so" to ""
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[5.147s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" to ""
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__python.so
+[5.147s] -- Set runtime path of "/home/keti/turtle_carto/install/dwb_msgs/lib/libdwb_msgs__python.so" to ""
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/msg/CriticScore.idl
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/msg/LocalPlanEvaluation.idl
+[5.147s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/msg/Trajectory2D.idl
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/msg/TrajectoryScore.idl
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/DebugLocalPlan.idl
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GenerateTrajectory.idl
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GenerateTwists.idl
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GetCriticScore.idl
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/ScoreTrajectory.idl
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/msg/CriticScore.msg
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/msg/LocalPlanEvaluation.msg
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/msg/Trajectory2D.msg
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/msg/TrajectoryScore.msg
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/DebugLocalPlan.srv
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/DebugLocalPlan_Request.msg
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/DebugLocalPlan_Response.msg
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GenerateTrajectory.srv
+[5.148s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GenerateTrajectory_Request.msg
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GenerateTrajectory_Response.msg
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GenerateTwists.srv
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GenerateTwists_Request.msg
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GenerateTwists_Response.msg
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GetCriticScore.srv
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GetCriticScore_Request.msg
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/GetCriticScore_Response.msg
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/ScoreTrajectory.srv
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/ScoreTrajectory_Request.msg
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/srv/ScoreTrajectory_Response.msg
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/ament_index/resource_index/package_run_dependencies/dwb_msgs
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/ament_index/resource_index/parent_prefix_path/dwb_msgs
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/environment/ament_prefix_path.sh
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/environment/ament_prefix_path.dsv
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/environment/path.sh
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/environment/path.dsv
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/local_setup.bash
+[5.149s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/local_setup.sh
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/local_setup.zsh
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/local_setup.dsv
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/package.dsv
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/ament_index/resource_index/packages/dwb_msgs
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_generator_cExport.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_generator_cExport-noconfig.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_introspection_cExport.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_cExport.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_generator_cppExport.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_cppExport.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/rosidl_cmake-extras.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.150s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[5.151s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[5.151s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.151s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[5.151s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[5.151s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgsConfig.cmake
+[5.151s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgsConfig-version.cmake
+[5.151s] -- Installing: /home/keti/turtle_carto/install/dwb_msgs/share/dwb_msgs/package.xml
+[5.154s] Invoked command in '/home/keti/turtle_carto/build/dwb_msgs' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/nav_2d_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/nav_2d_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/keti/turtle_carto/build/dwb_msgs

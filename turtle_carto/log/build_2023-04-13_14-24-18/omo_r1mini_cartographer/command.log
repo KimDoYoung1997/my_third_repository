@@ -1,0 +1,3 @@
+Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_cartographer': /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_cartographer -- -j24 -l24
+Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_cartographer' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_cartographer -- -j24 -l24
+Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_cartographer': /usr/bin/cmake --install /home/keti/turtle_carto/build/omo_r1mini_cartographer

@@ -1,0 +1,20 @@
+[0.532s] Invoking command in '/home/keti/turtle_carto/src/follow_waypoints': PYTHONPATH=/home/keti/turtle_carto/build/follow_waypoints/prefix_override:/home/keti/turtle_carto/install/follow_waypoints/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/follow_waypoints build --build-base /home/keti/turtle_carto/build/follow_waypoints/build install --record /home/keti/turtle_carto/build/follow_waypoints/install.log --install-scripts $base/lib/follow_waypoints --single-version-externally-managed
+[0.625s] running egg_info
+[0.626s] writing ../../build/follow_waypoints/follow_waypoints.egg-info/PKG-INFO
+[0.626s] writing dependency_links to ../../build/follow_waypoints/follow_waypoints.egg-info/dependency_links.txt
+[0.626s] writing entry points to ../../build/follow_waypoints/follow_waypoints.egg-info/entry_points.txt
+[0.626s] writing requirements to ../../build/follow_waypoints/follow_waypoints.egg-info/requires.txt
+[0.626s] writing top-level names to ../../build/follow_waypoints/follow_waypoints.egg-info/top_level.txt
+[0.641s] reading manifest file '../../build/follow_waypoints/follow_waypoints.egg-info/SOURCES.txt'
+[0.642s] writing manifest file '../../build/follow_waypoints/follow_waypoints.egg-info/SOURCES.txt'
+[0.642s] running build
+[0.642s] running build_py
+[0.642s] running install
+[0.642s] running install_lib
+[0.643s] running install_data
+[0.643s] running install_egg_info
+[0.644s] removing '/home/keti/turtle_carto/install/follow_waypoints/lib/python3.8/site-packages/follow_waypoints-0.0.0-py3.8.egg-info' (and everything under it)
+[0.644s] Copying ../../build/follow_waypoints/follow_waypoints.egg-info to /home/keti/turtle_carto/install/follow_waypoints/lib/python3.8/site-packages/follow_waypoints-0.0.0-py3.8.egg-info
+[0.644s] running install_scripts
+[0.654s] writing list of installed files to '/home/keti/turtle_carto/build/follow_waypoints/install.log'
+[0.881s] Invoked command in '/home/keti/turtle_carto/src/follow_waypoints' returned '0': PYTHONPATH=/home/keti/turtle_carto/build/follow_waypoints/prefix_override:/home/keti/turtle_carto/install/follow_waypoints/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/follow_waypoints build --build-base /home/keti/turtle_carto/build/follow_waypoints/build install --record /home/keti/turtle_carto/build/follow_waypoints/install.log --install-scripts $base/lib/follow_waypoints --single-version-externally-managed

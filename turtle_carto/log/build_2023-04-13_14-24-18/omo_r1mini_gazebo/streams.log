@@ -1,0 +1,2 @@
+[0.246s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_gazebo': /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_gazebo -- -j24 -l24
+[0.472s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_gazebo' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_gazebo -- -j24 -l24

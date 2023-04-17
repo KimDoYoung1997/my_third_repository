@@ -1,0 +1,2 @@
+Invoking command in '/home/keti/turtle_carto/build/nav_2d_msgs': /usr/bin/cmake --build /home/keti/turtle_carto/build/nav_2d_msgs -- -j24 -l24
+Invoked command in '/home/keti/turtle_carto/build/nav_2d_msgs' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/nav_2d_msgs -- -j24 -l24

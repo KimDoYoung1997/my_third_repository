@@ -1,0 +1,2 @@
+Invoking command in '/home/keti/turtle_carto/build/aws_robomaker_small_warehouse_world': /usr/bin/cmake /home/keti/turtle_carto/src/aws-robotics/aws-robomaker-small-warehouse-world -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/aws_robomaker_small_warehouse_world
+Invoked command in '/home/keti/turtle_carto/build/aws_robomaker_small_warehouse_world' returned '1': /usr/bin/cmake /home/keti/turtle_carto/src/aws-robotics/aws-robomaker-small-warehouse-world -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/aws_robomaker_small_warehouse_world

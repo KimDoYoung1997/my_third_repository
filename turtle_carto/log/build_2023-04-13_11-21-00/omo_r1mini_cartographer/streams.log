@@ -1,0 +1,28 @@
+[0.036s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_cartographer': /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_cartographer -- -j24 -l24
+[0.255s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_cartographer' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_cartographer -- -j24 -l24
+[0.283s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_cartographer': /usr/bin/cmake --install /home/keti/turtle_carto/build/omo_r1mini_cartographer
+[0.298s] -- Install configuration: ""
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/config
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/config/omo_r1mini_lidar.lua
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/launch
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/launch/cartographer_rviz.launch.py
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/launch/cartographer.launch.py
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/launch/occupancy_grid.launch.py
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/rviz
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/rviz/omo_r1mini_cartographer.rviz
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/ament_index/resource_index/package_run_dependencies/omo_r1mini_cartographer
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/ament_index/resource_index/parent_prefix_path/omo_r1mini_cartographer
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/environment/ament_prefix_path.sh
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/environment/ament_prefix_path.dsv
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/environment/path.sh
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/environment/path.dsv
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/local_setup.bash
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/local_setup.sh
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/local_setup.zsh
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/local_setup.dsv
+[0.298s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/package.dsv
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/ament_index/resource_index/packages/omo_r1mini_cartographer
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/cmake/omo_r1mini_cartographerConfig.cmake
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/cmake/omo_r1mini_cartographerConfig-version.cmake
+[0.298s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_cartographer/share/omo_r1mini_cartographer/package.xml
+[0.320s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_cartographer' returned '0': /usr/bin/cmake --install /home/keti/turtle_carto/build/omo_r1mini_cartographer

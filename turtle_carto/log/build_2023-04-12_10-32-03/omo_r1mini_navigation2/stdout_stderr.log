@@ -1,0 +1,46 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/keti/turtle_carto/build/omo_r1mini_navigation2
+-- Install configuration: ""
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/launch
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/launch/navigation2_rviz.launch.py
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/launch/navigation2.launch.py
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/map
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/map/turtlebot3_world.pgm
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/map/turtlebot3_world.yaml
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/param
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/param/omo_r1mini.yaml
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/rviz
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/rviz/tb3_navigation2.rviz
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/ament_index/resource_index/package_run_dependencies/omo_r1mini_navigation2
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/ament_index/resource_index/parent_prefix_path/omo_r1mini_navigation2
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/environment/ament_prefix_path.sh
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/environment/ament_prefix_path.dsv
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/environment/path.sh
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/environment/path.dsv
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/local_setup.bash
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/local_setup.sh
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/local_setup.zsh
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/local_setup.dsv
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/package.dsv
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/ament_index/resource_index/packages/omo_r1mini_navigation2
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/cmake/omo_r1mini_navigation2Config.cmake
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/cmake/omo_r1mini_navigation2Config-version.cmake
+-- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/package.xml

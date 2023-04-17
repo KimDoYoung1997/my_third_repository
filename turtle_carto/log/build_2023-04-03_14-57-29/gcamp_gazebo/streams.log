@@ -1,0 +1,84 @@
+[0.317s] Invoking command in '/home/keti/turtle_carto/build/gcamp_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/gcamp_ros2_basic/gcamp_gazebo -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/gcamp_gazebo
+[0.441s] -- The C compiler identification is GNU 9.4.0
+[0.441s] -- The CXX compiler identification is GNU 9.4.0
+[0.442s] -- Check for working C compiler: /usr/bin/cc
+[0.442s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.442s] -- Detecting C compiler ABI info
+[0.456s] -- Detecting C compiler ABI info - done
+[0.462s] -- Detecting C compile features
+[0.462s] -- Detecting C compile features - done
+[0.463s] -- Check for working CXX compiler: /usr/bin/c++
+[0.509s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.510s] -- Detecting CXX compiler ABI info
+[0.552s] -- Detecting CXX compiler ABI info - done
+[0.562s] -- Detecting CXX compile features
+[0.563s] -- Detecting CXX compile features - done
+[0.563s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.582s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.583s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.693s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.738s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.741s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.742s] -- Added test 'lint_cmake' to check CMake code style
+[0.742s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.743s] -- Added test 'xmllint' to check XML markup files
+[0.744s] -- Configuring done
+[0.745s] -- Generating done
+[0.746s] -- Build files have been written to: /home/keti/turtle_carto/build/gcamp_gazebo
+[0.748s] Invoked command in '/home/keti/turtle_carto/build/gcamp_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/gcamp_ros2_basic/gcamp_gazebo -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/gcamp_gazebo
+[0.750s] Invoking command in '/home/keti/turtle_carto/build/gcamp_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/gcamp_gazebo -- -j24 -l24
+[0.772s] Invoked command in '/home/keti/turtle_carto/build/gcamp_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/gcamp_gazebo -- -j24 -l24
+[0.786s] Invoking command in '/home/keti/turtle_carto/build/gcamp_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/gcamp_gazebo
+[0.790s] -- Install configuration: ""
+[0.790s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch
+[0.790s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/second_launch.launch.py
+[0.790s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/spawn_entity.launch.py
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/gcamp_world.launch.py
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/diffbot_description.launch.py
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/tinybot_description.launch.py
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/skidbot_description.launch.py
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/gcamp_world_windows.launch.py
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/first_launch.launch.py
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/maze_world.launch.py
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/empty_world.launch.py
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/launch/skid_robot_world.launch.py
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/worlds
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/worlds/gcamp_world.world
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/worlds/bocbot_office.world
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/worlds/maze_world.world
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/tinybot_diff.gazebo
+[0.791s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/diffbot.urdf
+[0.792s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/tinybot_diff.urdf
+[0.792s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/skidbot2.gazebo
+[0.792s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/diffbot.gazebo
+[0.792s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/skidbot2.urdf
+[0.793s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/skidbot2.urdf.xacro
+[0.794s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/skidbot.gazebo
+[0.794s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/tinybot_diff.urdf.xacro
+[0.795s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/turtlebot.sdf
+[0.795s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/skidbot.urdf.xacro
+[0.797s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/diffbot.urdf.xacro
+[0.797s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/sambot.urdf
+[0.797s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/urdf/skidbot.urdf
+[0.797s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/rviz
+[0.798s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/rviz/description.rviz
+[0.798s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/rviz/diffbot.rviz
+[0.800s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/rviz/tinybot.rviz
+[0.800s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/rviz/skidbot.rviz
+[0.800s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/ament_index/resource_index/package_run_dependencies/gcamp_gazebo
+[0.800s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/ament_index/resource_index/parent_prefix_path/gcamp_gazebo
+[0.800s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/environment/ament_prefix_path.sh
+[0.801s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/environment/ament_prefix_path.dsv
+[0.801s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/environment/path.sh
+[0.801s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/environment/path.dsv
+[0.801s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/local_setup.bash
+[0.801s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/local_setup.sh
+[0.801s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/local_setup.zsh
+[0.802s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/local_setup.dsv
+[0.802s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/package.dsv
+[0.802s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/ament_index/resource_index/packages/gcamp_gazebo
+[0.803s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/cmake/gcamp_gazeboConfig.cmake
+[0.803s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/cmake/gcamp_gazeboConfig-version.cmake
+[0.804s] -- Installing: /home/keti/turtle_carto/install/gcamp_gazebo/share/gcamp_gazebo/package.xml
+[0.807s] Invoked command in '/home/keti/turtle_carto/build/gcamp_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/gcamp_gazebo

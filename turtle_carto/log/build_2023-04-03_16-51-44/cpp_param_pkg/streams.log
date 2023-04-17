@@ -1,0 +1,4 @@
+[0.134s] Invoking command in '/home/keti/turtle_carto/build/cpp_param_pkg': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_param_pkg -- -j24 -l24
+[0.508s] [100%] Built target param_tutorial
+[0.523s] Invoked command in '/home/keti/turtle_carto/build/cpp_param_pkg' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_param_pkg -- -j24 -l24
+[0.569s] Invoking command in '/home/keti/turtle_carto/build/cpp_param_pkg': /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_param_pkg

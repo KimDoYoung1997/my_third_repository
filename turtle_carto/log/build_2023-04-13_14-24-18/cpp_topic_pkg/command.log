@@ -1,0 +1,2 @@
+Invoking command in '/home/keti/turtle_carto/build/cpp_topic_pkg': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_topic_pkg -- -j24 -l24
+Invoked command in '/home/keti/turtle_carto/build/cpp_topic_pkg' returned '2': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_topic_pkg -- -j24 -l24

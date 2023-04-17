@@ -1,0 +1,10 @@
+[0.136s] Invoking command in '/home/keti/turtle_carto/build/cpp_topic_pkg': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_topic_pkg -- -j24 -l24
+[0.505s] [ 14%] Built target cmd_vel_pub_node
+[0.505s] [ 35%] Built target topic_pub_node
+[0.505s] [ 42%] Built target laser_sub_node
+[0.505s] [ 57%] Built target parking_node
+[0.505s] [ 71%] Built target topic_pub_oop_node
+[0.505s] [ 85%] Built target topic_sub_node
+[0.505s] [100%] Built target topic_sub_oop_node
+[0.522s] Invoked command in '/home/keti/turtle_carto/build/cpp_topic_pkg' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_topic_pkg -- -j24 -l24
+[0.570s] Invoking command in '/home/keti/turtle_carto/build/cpp_topic_pkg': /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_topic_pkg

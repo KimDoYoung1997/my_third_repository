@@ -1,0 +1,4 @@
+[0.429s] Invoking command in '/home/keti/turtle_carto/build/teleop_twist_joy': /usr/bin/cmake --build /home/keti/turtle_carto/build/teleop_twist_joy -- -j24 -l24
+[0.457s] [ 50%] Built target teleop_twist_joy
+[0.470s] [100%] Built target teleop_twist_joy_node
+[0.505s] Invoked command in '/home/keti/turtle_carto/build/teleop_twist_joy' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/teleop_twist_joy -- -j24 -l24

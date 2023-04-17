@@ -1,0 +1,3 @@
+Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_interfaces -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/omo_r1mini_interfaces
+Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_interfaces -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/omo_r1mini_interfaces
+Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_interfaces -- -j24 -l24

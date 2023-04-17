@@ -1,0 +1,21 @@
+[0.043s] Invoking command in '/home/keti/turtle_carto/build/nav2_common': /usr/bin/cmake /home/keti/turtle_carto/src/ros-planning/navigation2/nav2_common -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/nav2_common
+[0.525s] CMake Error at CMakeLists.txt:5 (find_package):
+[0.525s]   By not providing "Findament_cmake_core.cmake" in CMAKE_MODULE_PATH this
+[0.525s]   project has asked CMake to find a package configuration file provided by
+[0.525s]   "ament_cmake_core", but CMake did not find one.
+[0.525s] 
+[0.525s]   Could not find a package configuration file provided by "ament_cmake_core"
+[0.525s]   with any of the following names:
+[0.525s] 
+[0.525s]     ament_cmake_coreConfig.cmake
+[0.525s]     ament_cmake_core-config.cmake
+[0.525s] 
+[0.525s]   Add the installation prefix of "ament_cmake_core" to CMAKE_PREFIX_PATH or
+[0.525s]   set "ament_cmake_core_DIR" to a directory containing one of the above
+[0.525s]   files.  If "ament_cmake_core" provides a separate development package or
+[0.525s]   SDK, be sure it has been installed.
+[0.525s] 
+[0.525s] 
+[0.525s] -- Configuring incomplete, errors occurred!
+[0.525s] See also "/home/keti/turtle_carto/build/nav2_common/CMakeFiles/CMakeOutput.log".
+[0.530s] Invoked command in '/home/keti/turtle_carto/build/nav2_common' returned '1': /usr/bin/cmake /home/keti/turtle_carto/src/ros-planning/navigation2/nav2_common -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/nav2_common

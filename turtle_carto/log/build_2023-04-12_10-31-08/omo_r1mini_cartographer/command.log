@@ -1,0 +1,2 @@
+Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_cartographer': /usr/bin/cmake /home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_cartographer -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/omo_r1mini_cartographer
+Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_cartographer' returned '1': /usr/bin/cmake /home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_cartographer -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/omo_r1mini_cartographer

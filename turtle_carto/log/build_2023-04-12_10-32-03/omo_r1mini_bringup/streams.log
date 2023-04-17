@@ -1,0 +1,79 @@
+[0.607s] Invoking command in '/home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_bringup': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces:/home/keti/turtle_carto/install/omo_r1mini_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces:/home/keti/turtle_carto/install/omo_r1mini_description LD_LIBRARY_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/build/omo_r1mini_bringup/prefix_override:/home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages:/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/omo_r1mini_bringup build --build-base /home/keti/turtle_carto/build/omo_r1mini_bringup/build install --record /home/keti/turtle_carto/build/omo_r1mini_bringup/install.log --install-scripts $base/lib/omo_r1mini_bringup --single-version-externally-managed
+[0.700s] running egg_info
+[0.701s] creating ../../../build/omo_r1mini_bringup/omo_r1mini_bringup.egg-info
+[0.701s] writing ../../../build/omo_r1mini_bringup/omo_r1mini_bringup.egg-info/PKG-INFO
+[0.701s] writing dependency_links to ../../../build/omo_r1mini_bringup/omo_r1mini_bringup.egg-info/dependency_links.txt
+[0.701s] writing entry points to ../../../build/omo_r1mini_bringup/omo_r1mini_bringup.egg-info/entry_points.txt
+[0.701s] writing requirements to ../../../build/omo_r1mini_bringup/omo_r1mini_bringup.egg-info/requires.txt
+[0.701s] writing top-level names to ../../../build/omo_r1mini_bringup/omo_r1mini_bringup.egg-info/top_level.txt
+[0.701s] writing manifest file '../../../build/omo_r1mini_bringup/omo_r1mini_bringup.egg-info/SOURCES.txt'
+[0.716s] reading manifest file '../../../build/omo_r1mini_bringup/omo_r1mini_bringup.egg-info/SOURCES.txt'
+[0.717s] writing manifest file '../../../build/omo_r1mini_bringup/omo_r1mini_bringup.egg-info/SOURCES.txt'
+[0.717s] running build
+[0.717s] running build_py
+[0.717s] creating /home/keti/turtle_carto/build/omo_r1mini_bringup/build
+[0.717s] creating /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib
+[0.717s] creating /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup
+[0.717s] copying omo_r1mini_bringup/__init__.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup
+[0.717s] creating /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts
+[0.717s] copying omo_r1mini_bringup/scripts/__init__.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts
+[0.718s] copying omo_r1mini_bringup/scripts/omo_r1mini_mcu_node.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts
+[0.718s] copying omo_r1mini_bringup/scripts/omo_r1mini_motor_setting_node.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts
+[0.718s] copying omo_r1mini_bringup/scripts/omo_packet_handler.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts
+[0.718s] creating /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/calc
+[0.718s] copying omo_r1mini_bringup/scripts/calc/__init__.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/calc
+[0.718s] copying omo_r1mini_bringup/scripts/calc/quaternion_from_euler.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/calc
+[0.718s] creating /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/driver
+[0.718s] copying omo_r1mini_bringup/scripts/driver/__init__.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/driver
+[0.718s] copying omo_r1mini_bringup/scripts/driver/port.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/driver
+[0.718s] copying omo_r1mini_bringup/scripts/driver/packet.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/driver
+[0.718s] copying omo_r1mini_bringup/scripts/driver/template.py -> /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/driver
+[0.718s] running install
+[0.719s] running install_lib
+[0.719s] creating /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup
+[0.719s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/__init__.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup
+[0.719s] creating /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts
+[0.719s] creating /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/calc
+[0.719s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/calc/__init__.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/calc
+[0.719s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/calc/quaternion_from_euler.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/calc
+[0.719s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/__init__.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts
+[0.719s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/omo_r1mini_mcu_node.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts
+[0.719s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/omo_r1mini_motor_setting_node.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts
+[0.719s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/omo_packet_handler.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts
+[0.720s] creating /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/driver
+[0.720s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/driver/__init__.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/driver
+[0.720s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/driver/port.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/driver
+[0.720s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/driver/packet.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/driver
+[0.720s] copying /home/keti/turtle_carto/build/omo_r1mini_bringup/build/lib/omo_r1mini_bringup/scripts/driver/template.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/driver
+[0.720s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/__init__.py to __init__.cpython-38.pyc
+[0.720s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/calc/__init__.py to __init__.cpython-38.pyc
+[0.720s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/calc/quaternion_from_euler.py to quaternion_from_euler.cpython-38.pyc
+[0.720s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/__init__.py to __init__.cpython-38.pyc
+[0.720s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/omo_r1mini_mcu_node.py to omo_r1mini_mcu_node.cpython-38.pyc
+[0.721s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/omo_r1mini_motor_setting_node.py to omo_r1mini_motor_setting_node.cpython-38.pyc
+[0.721s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/omo_packet_handler.py to omo_packet_handler.cpython-38.pyc
+[0.723s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/driver/__init__.py to __init__.cpython-38.pyc
+[0.723s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/driver/port.py to port.cpython-38.pyc
+[0.723s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/driver/packet.py to packet.cpython-38.pyc
+[0.723s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup/scripts/driver/template.py to template.cpython-38.pyc
+[0.723s] running install_data
+[0.723s] creating /home/keti/turtle_carto/install/omo_r1mini_bringup/share/ament_index
+[0.724s] creating /home/keti/turtle_carto/install/omo_r1mini_bringup/share/ament_index/resource_index
+[0.724s] creating /home/keti/turtle_carto/install/omo_r1mini_bringup/share/ament_index/resource_index/packages
+[0.724s] copying resource/omo_r1mini_bringup -> /home/keti/turtle_carto/install/omo_r1mini_bringup/share/ament_index/resource_index/packages
+[0.724s] copying package.xml -> /home/keti/turtle_carto/install/omo_r1mini_bringup/share/omo_r1mini_bringup
+[0.724s] creating /home/keti/turtle_carto/install/omo_r1mini_bringup/share/omo_r1mini_bringup/launch
+[0.724s] copying launch/omo_r1mini_lidar.launch.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/share/omo_r1mini_bringup/launch
+[0.724s] copying launch/omo_r1mini_mcu.launch.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/share/omo_r1mini_bringup/launch
+[0.724s] copying launch/omo_r1mini_bringup.launch.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/share/omo_r1mini_bringup/launch
+[0.725s] copying launch/omo_r1mini_motor_setting.launch.py -> /home/keti/turtle_carto/install/omo_r1mini_bringup/share/omo_r1mini_bringup/launch
+[0.725s] creating /home/keti/turtle_carto/install/omo_r1mini_bringup/share/omo_r1mini_bringup/param
+[0.725s] copying param/omo_r1mini_mcu.yaml -> /home/keti/turtle_carto/install/omo_r1mini_bringup/share/omo_r1mini_bringup/param
+[0.725s] copying param/omo_r1mini_lidar.yaml -> /home/keti/turtle_carto/install/omo_r1mini_bringup/share/omo_r1mini_bringup/param
+[0.725s] running install_egg_info
+[0.725s] Copying ../../../build/omo_r1mini_bringup/omo_r1mini_bringup.egg-info to /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages/omo_r1mini_bringup-0.0.1-py3.8.egg-info
+[0.725s] running install_scripts
+[0.732s] Installing omo_r1mini_mcu_node script to /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/omo_r1mini_bringup
+[0.732s] Installing omo_r1mini_motor_setting_node script to /home/keti/turtle_carto/install/omo_r1mini_bringup/lib/omo_r1mini_bringup
+[0.732s] writing list of installed files to '/home/keti/turtle_carto/build/omo_r1mini_bringup/install.log'
+[0.746s] Invoked command in '/home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_bringup' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces:/home/keti/turtle_carto/install/omo_r1mini_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces:/home/keti/turtle_carto/install/omo_r1mini_description LD_LIBRARY_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/build/omo_r1mini_bringup/prefix_override:/home/keti/turtle_carto/install/omo_r1mini_bringup/lib/python3.8/site-packages:/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/omo_r1mini_bringup build --build-base /home/keti/turtle_carto/build/omo_r1mini_bringup/build install --record /home/keti/turtle_carto/build/omo_r1mini_bringup/install.log --install-scripts $base/lib/omo_r1mini_bringup --single-version-externally-managed

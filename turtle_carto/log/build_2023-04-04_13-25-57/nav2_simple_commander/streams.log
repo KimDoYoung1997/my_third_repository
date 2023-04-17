@@ -1,0 +1,77 @@
+[0.431s] Invoking command in '/home/keti/turtle_carto/src/ros-planning/navigation2/nav2_simple_commander': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/nav2_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/nav2_msgs LD_LIBRARY_PATH=/home/keti/turtle_carto/install/nav2_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/build/nav2_simple_commander/prefix_override:/home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages:/home/keti/turtle_carto/install/nav2_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/nav2_simple_commander build --build-base /home/keti/turtle_carto/build/nav2_simple_commander/build install --record /home/keti/turtle_carto/build/nav2_simple_commander/install.log --install-scripts $base/lib/nav2_simple_commander --single-version-externally-managed
+[0.521s] running egg_info
+[0.521s] creating ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info
+[0.521s] writing ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/PKG-INFO
+[0.521s] writing dependency_links to ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/dependency_links.txt
+[0.521s] writing entry points to ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/entry_points.txt
+[0.521s] writing requirements to ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/requires.txt
+[0.521s] writing top-level names to ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/top_level.txt
+[0.522s] writing manifest file '../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/SOURCES.txt'
+[0.544s] reading manifest file '../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/SOURCES.txt'
+[0.544s] writing manifest file '../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/SOURCES.txt'
+[0.544s] running build
+[0.545s] running build_py
+[0.545s] creating /home/keti/turtle_carto/build/nav2_simple_commander/build
+[0.545s] creating /home/keti/turtle_carto/build/nav2_simple_commander/build/lib
+[0.545s] creating /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.545s] copying nav2_simple_commander/demo_picking.py -> /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.545s] copying nav2_simple_commander/__init__.py -> /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.545s] copying nav2_simple_commander/demo_inspection.py -> /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.545s] copying nav2_simple_commander/example_nav_to_pose.py -> /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.545s] copying nav2_simple_commander/demo_security.py -> /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.545s] copying nav2_simple_commander/example_waypoint_follower.py -> /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.545s] copying nav2_simple_commander/robot_navigator.py -> /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.545s] copying nav2_simple_commander/demo_recoveries.py -> /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.545s] copying nav2_simple_commander/example_nav_through_poses.py -> /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.546s] copying nav2_simple_commander/example_follow_path.py -> /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.546s] running install
+[0.546s] running install_lib
+[0.546s] creating /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.546s] copying /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander/demo_picking.py -> /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.546s] copying /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander/__init__.py -> /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.547s] copying /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander/demo_inspection.py -> /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.547s] copying /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander/example_nav_to_pose.py -> /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.547s] copying /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander/demo_security.py -> /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.547s] copying /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander/example_waypoint_follower.py -> /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.547s] copying /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander/robot_navigator.py -> /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.547s] copying /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander/demo_recoveries.py -> /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.547s] copying /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander/example_nav_through_poses.py -> /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.547s] copying /home/keti/turtle_carto/build/nav2_simple_commander/build/lib/nav2_simple_commander/example_follow_path.py -> /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.547s] byte-compiling /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/demo_picking.py to demo_picking.cpython-38.pyc
+[0.548s] byte-compiling /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/__init__.py to __init__.cpython-38.pyc
+[0.548s] byte-compiling /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/demo_inspection.py to demo_inspection.cpython-38.pyc
+[0.548s] byte-compiling /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/example_nav_to_pose.py to example_nav_to_pose.cpython-38.pyc
+[0.548s] byte-compiling /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/demo_security.py to demo_security.cpython-38.pyc
+[0.548s] byte-compiling /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/example_waypoint_follower.py to example_waypoint_follower.cpython-38.pyc
+[0.549s] byte-compiling /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/robot_navigator.py to robot_navigator.cpython-38.pyc
+[0.550s] byte-compiling /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/demo_recoveries.py to demo_recoveries.cpython-38.pyc
+[0.550s] byte-compiling /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/example_nav_through_poses.py to example_nav_through_poses.cpython-38.pyc
+[0.550s] byte-compiling /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/example_follow_path.py to example_follow_path.cpython-38.pyc
+[0.551s] running install_data
+[0.551s] creating /home/keti/turtle_carto/install/nav2_simple_commander/share/ament_index
+[0.551s] creating /home/keti/turtle_carto/install/nav2_simple_commander/share/ament_index/resource_index
+[0.551s] creating /home/keti/turtle_carto/install/nav2_simple_commander/share/ament_index/resource_index/packages
+[0.551s] copying resource/nav2_simple_commander -> /home/keti/turtle_carto/install/nav2_simple_commander/share/ament_index/resource_index/packages
+[0.551s] copying package.xml -> /home/keti/turtle_carto/install/nav2_simple_commander/share/nav2_simple_commander
+[0.551s] copying launch/picking_demo_launch.py -> /home/keti/turtle_carto/install/nav2_simple_commander/share/nav2_simple_commander
+[0.551s] copying launch/waypoint_follower_example_launch.py -> /home/keti/turtle_carto/install/nav2_simple_commander/share/nav2_simple_commander
+[0.551s] copying launch/inspection_demo_launch.py -> /home/keti/turtle_carto/install/nav2_simple_commander/share/nav2_simple_commander
+[0.551s] copying launch/security_demo_launch.py -> /home/keti/turtle_carto/install/nav2_simple_commander/share/nav2_simple_commander
+[0.551s] copying launch/nav_to_pose_example_launch.py -> /home/keti/turtle_carto/install/nav2_simple_commander/share/nav2_simple_commander
+[0.552s] copying launch/follow_path_example_launch.py -> /home/keti/turtle_carto/install/nav2_simple_commander/share/nav2_simple_commander
+[0.552s] copying launch/nav_through_poses_example_launch.py -> /home/keti/turtle_carto/install/nav2_simple_commander/share/nav2_simple_commander
+[0.552s] copying launch/warehouse.world -> /home/keti/turtle_carto/install/nav2_simple_commander/share/nav2_simple_commander
+[0.552s] copying launch/recoveries_example_launch.py -> /home/keti/turtle_carto/install/nav2_simple_commander/share/nav2_simple_commander
+[0.552s] running install_egg_info
+[0.553s] Copying ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info to /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander-1.0.0-py3.8.egg-info
+[0.553s] running install_scripts
+[0.561s] Installing demo_inspection script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.561s] Installing demo_picking script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.561s] Installing demo_recoveries script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.561s] Installing demo_security script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.561s] Installing example_follow_path script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.561s] Installing example_nav_through_poses script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.561s] Installing example_nav_to_pose script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.561s] Installing example_waypoint_follower script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.561s] writing list of installed files to '/home/keti/turtle_carto/build/nav2_simple_commander/install.log'
+[0.573s] Invoked command in '/home/keti/turtle_carto/src/ros-planning/navigation2/nav2_simple_commander' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/nav2_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/nav2_msgs LD_LIBRARY_PATH=/home/keti/turtle_carto/install/nav2_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/build/nav2_simple_commander/prefix_override:/home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages:/home/keti/turtle_carto/install/nav2_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/nav2_simple_commander build --build-base /home/keti/turtle_carto/build/nav2_simple_commander/build install --record /home/keti/turtle_carto/build/nav2_simple_commander/install.log --install-scripts $base/lib/nav2_simple_commander --single-version-externally-managed

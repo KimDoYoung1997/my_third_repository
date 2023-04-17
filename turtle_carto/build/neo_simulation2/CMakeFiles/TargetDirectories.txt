@@ -1,0 +1,9 @@
+/home/keti/turtle_carto/build/neo_simulation2/CMakeFiles/install/strip.dir
+/home/keti/turtle_carto/build/neo_simulation2/CMakeFiles/install/local.dir
+/home/keti/turtle_carto/build/neo_simulation2/CMakeFiles/install.dir
+/home/keti/turtle_carto/build/neo_simulation2/CMakeFiles/list_install_components.dir
+/home/keti/turtle_carto/build/neo_simulation2/CMakeFiles/rebuild_cache.dir
+/home/keti/turtle_carto/build/neo_simulation2/CMakeFiles/edit_cache.dir
+/home/keti/turtle_carto/build/neo_simulation2/CMakeFiles/test.dir
+/home/keti/turtle_carto/build/neo_simulation2/CMakeFiles/neo_simulation2_uninstall.dir
+/home/keti/turtle_carto/build/neo_simulation2/CMakeFiles/uninstall.dir

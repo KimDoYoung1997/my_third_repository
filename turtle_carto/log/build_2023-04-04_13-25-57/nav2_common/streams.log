@@ -1,0 +1,48 @@
+[0.056s] Invoking command in '/home/keti/turtle_carto/build/nav2_common': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/ros-planning/navigation2/nav2_common -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/nav2_common
+[0.507s] -- Found ament_cmake_core: 0.9.11 (/opt/ros/foxy/share/ament_cmake_core/cmake)
+[0.508s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.508s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.508s] -- Found ament_cmake_python: 0.9.11 (/opt/ros/foxy/share/ament_cmake_python/cmake)
+[0.508s] -- Configuring done
+[0.508s] -- Generating done
+[0.508s] -- Build files have been written to: /home/keti/turtle_carto/build/nav2_common
+[0.511s] Invoked command in '/home/keti/turtle_carto/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/ros-planning/navigation2/nav2_common -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/nav2_common
+[0.512s] Invoking command in '/home/keti/turtle_carto/build/nav2_common': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/nav2_common -- -j24 -l24
+[0.551s] Invoked command in '/home/keti/turtle_carto/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/nav2_common -- -j24 -l24
+[0.608s] Invoking command in '/home/keti/turtle_carto/build/nav2_common': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/nav2_common
+[0.654s] -- Install configuration: ""
+[0.655s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/environment/pythonpath.sh
+[0.655s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/environment/pythonpath.dsv
+[0.655s] -- Installing: /home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common
+[0.655s] -- Installing: /home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/__init__.py
+[0.655s] -- Installing: /home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch
+[0.655s] -- Installing: /home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/__init__.py
+[0.655s] -- Installing: /home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/replace_string.py
+[0.655s] -- Installing: /home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/rewritten_yaml.py
+[0.655s] -- Installing: /home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/has_node_params.py
+[0.655s] Listing '/home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common'...
+[0.655s] Compiling '/home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/__init__.py'...
+[0.655s] Listing '/home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch'...
+[0.655s] Compiling '/home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/__init__.py'...
+[0.656s] Compiling '/home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/has_node_params.py'...
+[0.656s] Compiling '/home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/replace_string.py'...
+[0.656s] Compiling '/home/keti/turtle_carto/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/rewritten_yaml.py'...
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/ament_index/resource_index/package_run_dependencies/nav2_common
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/ament_index/resource_index/parent_prefix_path/nav2_common
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/environment/ament_prefix_path.sh
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/environment/ament_prefix_path.dsv
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/environment/path.sh
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/environment/path.dsv
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/local_setup.bash
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/local_setup.sh
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/local_setup.zsh
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/local_setup.dsv
+[0.656s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/package.dsv
+[0.657s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/ament_index/resource_index/packages/nav2_common
+[0.657s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/cmake/nav2_common-extras.cmake
+[0.657s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/cmake/nav2_commonConfig.cmake
+[0.658s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/cmake/nav2_commonConfig-version.cmake
+[0.658s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/package.xml
+[0.658s] -- Up-to-date: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/cmake
+[0.658s] -- Installing: /home/keti/turtle_carto/install/nav2_common/share/nav2_common/cmake/nav2_package.cmake
+[0.688s] Invoked command in '/home/keti/turtle_carto/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/nav2_common

@@ -1,0 +1,7 @@
+[0.134s] Invoking command in '/home/keti/turtle_carto/build/cpp_service_tutorial': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_service_tutorial -- -j24 -l24
+[0.506s] [ 25%] Built target srv_server_node
+[0.506s] [ 50%] Built target srv_client_node
+[0.506s] [ 75%] Built target cpp_simple_service_client_node
+[0.506s] [100%] Built target cpp_simple_service_dummy_server_node
+[0.520s] Invoked command in '/home/keti/turtle_carto/build/cpp_service_tutorial' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_service_tutorial -- -j24 -l24
+[0.569s] Invoking command in '/home/keti/turtle_carto/build/cpp_service_tutorial': /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_service_tutorial

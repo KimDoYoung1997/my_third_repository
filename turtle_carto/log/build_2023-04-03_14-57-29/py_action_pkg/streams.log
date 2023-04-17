@@ -1,0 +1,71 @@
+[0.501s] Invoking command in '/home/keti/turtle_carto/src/gcamp_ros2_basic/py_action_pkg': CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/home/keti/turtle_carto/install/turtlebot3:/home/keti/turtle_carto/install/turtlebot3_simulations:/home/keti/turtle_carto/install/turtlebot3_bringup:/home/keti/turtle_carto/install/turtlebot3_node:/home/keti/turtle_carto/install/turtlebot3_navigation2:/home/keti/turtle_carto/install/turtlebot3_fake_node:/home/keti/turtle_carto/install/turtlebot3_msgs:/home/keti/turtle_carto/install/turtlebot3_description:/home/keti/turtle_carto/install/turtlebot3_cartographer:/home/keti/turtle_carto/install/gcamp_gazebo:/home/keti/turtle_carto/install/cpp_service_pkg:/home/keti/turtle_carto/install/cpp_action_pkg:/home/keti/turtle_carto/install/cpp_topic_pkg:/home/keti/turtle_carto/install/cpp_service_tutorial:/home/keti/turtle_carto/install/cpp_param_pkg:/home/keti/turtle_carto/install/cpp_first_pkg LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/home/keti/turtle_carto/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/build/py_action_pkg/prefix_override:/home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages:/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:/home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/keti/turtle_carto/install/turtlebot3_example/lib/python3.8/site-packages:/home/keti/turtle_carto/install/turtlebot3_msgs/lib/python3.8/site-packages:/home/keti/turtle_carto/install/py_topic_pkg/lib/python3.8/site-packages:/home/keti/turtle_carto/install/py_service_pkg/lib/python3.8/site-packages:/home/keti/turtle_carto/install/py_first_pkg/lib/python3.8/site-packages:/home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages:/home/keti/turtle_carto/install/follow_waypoints/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/py_action_pkg build --build-base /home/keti/turtle_carto/build/py_action_pkg/build install --record /home/keti/turtle_carto/build/py_action_pkg/install.log --install-scripts $base/lib/py_action_pkg --single-version-externally-managed
+[0.603s] running egg_info
+[0.603s] creating ../../../build/py_action_pkg/py_action_pkg.egg-info
+[0.603s] writing ../../../build/py_action_pkg/py_action_pkg.egg-info/PKG-INFO
+[0.603s] writing dependency_links to ../../../build/py_action_pkg/py_action_pkg.egg-info/dependency_links.txt
+[0.603s] writing entry points to ../../../build/py_action_pkg/py_action_pkg.egg-info/entry_points.txt
+[0.603s] writing requirements to ../../../build/py_action_pkg/py_action_pkg.egg-info/requires.txt
+[0.603s] writing top-level names to ../../../build/py_action_pkg/py_action_pkg.egg-info/top_level.txt
+[0.604s] writing manifest file '../../../build/py_action_pkg/py_action_pkg.egg-info/SOURCES.txt'
+[0.619s] reading manifest file '../../../build/py_action_pkg/py_action_pkg.egg-info/SOURCES.txt'
+[0.620s] writing manifest file '../../../build/py_action_pkg/py_action_pkg.egg-info/SOURCES.txt'
+[0.620s] running build
+[0.620s] running build_py
+[0.620s] creating /home/keti/turtle_carto/build/py_action_pkg/build
+[0.620s] creating /home/keti/turtle_carto/build/py_action_pkg/build/lib
+[0.620s] creating /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.620s] copying py_action_pkg/maze_action_server.py -> /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.620s] copying py_action_pkg/__init__.py -> /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.620s] copying py_action_pkg/fibonacci_action_client_cancel.py -> /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.620s] copying py_action_pkg/fibonacci_action_server_cancel.py -> /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.620s] copying py_action_pkg/odom_sub.py -> /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.620s] copying py_action_pkg/robot_controller.py -> /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.620s] copying py_action_pkg/image_sub.py -> /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.620s] copying py_action_pkg/fibonacci_action_client.py -> /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.620s] copying py_action_pkg/fibonacci_action_server.py -> /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.620s] copying py_action_pkg/maze_action_client.py -> /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg
+[0.621s] running install
+[0.621s] running install_lib
+[0.621s] creating /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.621s] copying /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg/maze_action_server.py -> /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.621s] copying /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg/__init__.py -> /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.621s] copying /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg/fibonacci_action_client_cancel.py -> /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.621s] copying /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg/fibonacci_action_server_cancel.py -> /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.621s] copying /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg/odom_sub.py -> /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.622s] copying /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg/robot_controller.py -> /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.622s] copying /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg/image_sub.py -> /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.622s] copying /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg/fibonacci_action_client.py -> /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.622s] copying /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg/fibonacci_action_server.py -> /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.622s] copying /home/keti/turtle_carto/build/py_action_pkg/build/lib/py_action_pkg/maze_action_client.py -> /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg
+[0.622s] byte-compiling /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg/maze_action_server.py to maze_action_server.cpython-38.pyc
+[0.625s] byte-compiling /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg/__init__.py to __init__.cpython-38.pyc
+[0.626s] byte-compiling /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg/fibonacci_action_client_cancel.py to fibonacci_action_client_cancel.cpython-38.pyc
+[0.626s] byte-compiling /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg/fibonacci_action_server_cancel.py to fibonacci_action_server_cancel.cpython-38.pyc
+[0.626s] byte-compiling /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg/odom_sub.py to odom_sub.cpython-38.pyc
+[0.626s] byte-compiling /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg/robot_controller.py to robot_controller.cpython-38.pyc
+[0.626s] byte-compiling /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg/image_sub.py to image_sub.cpython-38.pyc
+[0.626s] byte-compiling /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg/fibonacci_action_client.py to fibonacci_action_client.cpython-38.pyc
+[0.626s] byte-compiling /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg/fibonacci_action_server.py to fibonacci_action_server.cpython-38.pyc
+[0.626s] byte-compiling /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg/maze_action_client.py to maze_action_client.cpython-38.pyc
+[0.627s] running install_data
+[0.627s] creating /home/keti/turtle_carto/install/py_action_pkg/share/ament_index
+[0.627s] creating /home/keti/turtle_carto/install/py_action_pkg/share/ament_index/resource_index
+[0.627s] creating /home/keti/turtle_carto/install/py_action_pkg/share/ament_index/resource_index/packages
+[0.627s] copying resource/py_action_pkg -> /home/keti/turtle_carto/install/py_action_pkg/share/ament_index/resource_index/packages
+[0.627s] copying package.xml -> /home/keti/turtle_carto/install/py_action_pkg/share/py_action_pkg
+[0.627s] creating /home/keti/turtle_carto/install/py_action_pkg/share/py_action_pkg/launch
+[0.627s] copying launch/maze_action_srv.launch.py -> /home/keti/turtle_carto/install/py_action_pkg/share/py_action_pkg/launch
+[0.627s] running install_egg_info
+[0.627s] Copying ../../../build/py_action_pkg/py_action_pkg.egg-info to /home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages/py_action_pkg-0.0.0-py3.8.egg-info
+[0.627s] running install_scripts
+[0.635s] Installing fibonacci_action_client script to /home/keti/turtle_carto/install/py_action_pkg/lib/py_action_pkg
+[0.635s] Installing fibonacci_action_client_cancel script to /home/keti/turtle_carto/install/py_action_pkg/lib/py_action_pkg
+[0.635s] Installing fibonacci_action_server script to /home/keti/turtle_carto/install/py_action_pkg/lib/py_action_pkg
+[0.635s] Installing fibonacci_action_server_cancel script to /home/keti/turtle_carto/install/py_action_pkg/lib/py_action_pkg
+[0.635s] Installing img_subscriber_node script to /home/keti/turtle_carto/install/py_action_pkg/lib/py_action_pkg
+[0.635s] Installing maze_action_client script to /home/keti/turtle_carto/install/py_action_pkg/lib/py_action_pkg
+[0.635s] Installing maze_action_server script to /home/keti/turtle_carto/install/py_action_pkg/lib/py_action_pkg
+[0.635s] Installing odom_sub_node script to /home/keti/turtle_carto/install/py_action_pkg/lib/py_action_pkg
+[0.635s] Installing robot_controller script to /home/keti/turtle_carto/install/py_action_pkg/lib/py_action_pkg
+[0.636s] writing list of installed files to '/home/keti/turtle_carto/build/py_action_pkg/install.log'
+[0.647s] Invoked command in '/home/keti/turtle_carto/src/gcamp_ros2_basic/py_action_pkg' returned '0': CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/home/keti/turtle_carto/install/turtlebot3:/home/keti/turtle_carto/install/turtlebot3_simulations:/home/keti/turtle_carto/install/turtlebot3_bringup:/home/keti/turtle_carto/install/turtlebot3_node:/home/keti/turtle_carto/install/turtlebot3_navigation2:/home/keti/turtle_carto/install/turtlebot3_fake_node:/home/keti/turtle_carto/install/turtlebot3_msgs:/home/keti/turtle_carto/install/turtlebot3_description:/home/keti/turtle_carto/install/turtlebot3_cartographer:/home/keti/turtle_carto/install/gcamp_gazebo:/home/keti/turtle_carto/install/cpp_service_pkg:/home/keti/turtle_carto/install/cpp_action_pkg:/home/keti/turtle_carto/install/cpp_topic_pkg:/home/keti/turtle_carto/install/cpp_service_tutorial:/home/keti/turtle_carto/install/cpp_param_pkg:/home/keti/turtle_carto/install/cpp_first_pkg LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/home/keti/turtle_carto/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/build/py_action_pkg/prefix_override:/home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages:/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:/home/keti/turtle_carto/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/keti/turtle_carto/install/turtlebot3_example/lib/python3.8/site-packages:/home/keti/turtle_carto/install/turtlebot3_msgs/lib/python3.8/site-packages:/home/keti/turtle_carto/install/py_topic_pkg/lib/python3.8/site-packages:/home/keti/turtle_carto/install/py_service_pkg/lib/python3.8/site-packages:/home/keti/turtle_carto/install/py_first_pkg/lib/python3.8/site-packages:/home/keti/turtle_carto/install/py_action_pkg/lib/python3.8/site-packages:/home/keti/turtle_carto/install/follow_waypoints/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/py_action_pkg build --build-base /home/keti/turtle_carto/build/py_action_pkg/build install --record /home/keti/turtle_carto/build/py_action_pkg/install.log --install-scripts $base/lib/py_action_pkg --single-version-externally-managed

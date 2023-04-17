@@ -1,0 +1,3 @@
+Invoking command in '/home/keti/turtle_carto/build/nav2_common': /usr/bin/cmake --build /home/keti/turtle_carto/build/nav2_common -- -j24 -l24
+Invoked command in '/home/keti/turtle_carto/build/nav2_common' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/nav2_common -- -j24 -l24
+Invoking command in '/home/keti/turtle_carto/build/nav2_common': /usr/bin/cmake --install /home/keti/turtle_carto/build/nav2_common

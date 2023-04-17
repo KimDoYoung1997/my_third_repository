@@ -1,0 +1,6 @@
+/home/keti/turtle_carto/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:msg/SensorState.idl
+/home/keti/turtle_carto/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:msg/Sound.idl
+/home/keti/turtle_carto/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:msg/VersionInfo.idl
+/home/keti/turtle_carto/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:srv/Sound.idl
+/home/keti/turtle_carto/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:srv/Dqn.idl
+/home/keti/turtle_carto/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:action/Patrol.idl

@@ -1,0 +1,50 @@
+[0.600s] Invoking command in '/home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_teleop': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces LD_LIBRARY_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/build/omo_r1mini_teleop/prefix_override:/home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages:/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/omo_r1mini_teleop build --build-base /home/keti/turtle_carto/build/omo_r1mini_teleop/build install --record /home/keti/turtle_carto/build/omo_r1mini_teleop/install.log --install-scripts $base/lib/omo_r1mini_teleop --single-version-externally-managed
+[0.696s] running egg_info
+[0.696s] creating ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info
+[0.696s] writing ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/PKG-INFO
+[0.696s] writing dependency_links to ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/dependency_links.txt
+[0.696s] writing entry points to ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/entry_points.txt
+[0.696s] writing requirements to ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/requires.txt
+[0.696s] writing top-level names to ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/top_level.txt
+[0.697s] writing manifest file '../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/SOURCES.txt'
+[0.711s] reading manifest file '../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/SOURCES.txt'
+[0.712s] writing manifest file '../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/SOURCES.txt'
+[0.712s] running build
+[0.712s] running build_py
+[0.712s] creating /home/keti/turtle_carto/build/omo_r1mini_teleop/build
+[0.712s] creating /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib
+[0.712s] creating /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop
+[0.712s] copying omo_r1mini_teleop/__init__.py -> /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop
+[0.713s] creating /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop/script
+[0.713s] copying omo_r1mini_teleop/script/__init__.py -> /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop/script
+[0.713s] copying omo_r1mini_teleop/script/teleop_joy.py -> /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop/script
+[0.713s] copying omo_r1mini_teleop/script/teleop_keyboard.py -> /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop/script
+[0.713s] running install
+[0.714s] running install_lib
+[0.714s] creating /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop
+[0.714s] copying /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop/__init__.py -> /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop
+[0.714s] creating /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop/script
+[0.714s] copying /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop/script/__init__.py -> /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop/script
+[0.714s] copying /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop/script/teleop_joy.py -> /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop/script
+[0.714s] copying /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop/script/teleop_keyboard.py -> /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop/script
+[0.714s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop/__init__.py to __init__.cpython-38.pyc
+[0.715s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop/script/__init__.py to __init__.cpython-38.pyc
+[0.715s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop/script/teleop_joy.py to teleop_joy.cpython-38.pyc
+[0.715s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop/script/teleop_keyboard.py to teleop_keyboard.cpython-38.pyc
+[0.716s] running install_data
+[0.716s] creating /home/keti/turtle_carto/install/omo_r1mini_teleop/share/ament_index
+[0.716s] creating /home/keti/turtle_carto/install/omo_r1mini_teleop/share/ament_index/resource_index
+[0.716s] creating /home/keti/turtle_carto/install/omo_r1mini_teleop/share/ament_index/resource_index/packages
+[0.716s] copying resource/omo_r1mini_teleop -> /home/keti/turtle_carto/install/omo_r1mini_teleop/share/ament_index/resource_index/packages
+[0.716s] copying package.xml -> /home/keti/turtle_carto/install/omo_r1mini_teleop/share/omo_r1mini_teleop
+[0.716s] creating /home/keti/turtle_carto/install/omo_r1mini_teleop/share/omo_r1mini_teleop/launch
+[0.716s] copying launch/teleop_joy.launch.py -> /home/keti/turtle_carto/install/omo_r1mini_teleop/share/omo_r1mini_teleop/launch
+[0.716s] creating /home/keti/turtle_carto/install/omo_r1mini_teleop/share/omo_r1mini_teleop/param
+[0.716s] copying param/teleop_joy.param.yaml -> /home/keti/turtle_carto/install/omo_r1mini_teleop/share/omo_r1mini_teleop/param
+[0.716s] running install_egg_info
+[0.716s] Copying ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info to /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop-2.1.2-py3.8.egg-info
+[0.718s] running install_scripts
+[0.724s] Installing teleop_joy script to /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/omo_r1mini_teleop
+[0.724s] Installing teleop_keyboard script to /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/omo_r1mini_teleop
+[0.724s] writing list of installed files to '/home/keti/turtle_carto/build/omo_r1mini_teleop/install.log'
+[0.736s] Invoked command in '/home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_teleop' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces LD_LIBRARY_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/build/omo_r1mini_teleop/prefix_override:/home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages:/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/omo_r1mini_teleop build --build-base /home/keti/turtle_carto/build/omo_r1mini_teleop/build install --record /home/keti/turtle_carto/build/omo_r1mini_teleop/install.log --install-scripts $base/lib/omo_r1mini_teleop --single-version-externally-managed

@@ -1,0 +1,2 @@
+Invoking command in '/home/keti/turtle_carto/build/nav2_rosdevday_2021': /usr/bin/cmake /home/keti/turtle_carto/src/nav2_rosdevday_2021/nav2_rosdevday_2021 -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/nav2_rosdevday_2021
+Invoked command in '/home/keti/turtle_carto/build/nav2_rosdevday_2021' returned '1': /usr/bin/cmake /home/keti/turtle_carto/src/nav2_rosdevday_2021/nav2_rosdevday_2021 -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/nav2_rosdevday_2021

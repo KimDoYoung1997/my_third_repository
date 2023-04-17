@@ -1,0 +1,3 @@
+[0.035s] Invoking command in '/home/keti/turtle_carto/build/turtlebot3_cartographer': /usr/bin/cmake --build /home/keti/turtle_carto/build/turtlebot3_cartographer -- -j24 -l24
+[0.371s] Invoked command in '/home/keti/turtle_carto/build/turtlebot3_cartographer' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/turtlebot3_cartographer -- -j24 -l24
+[0.403s] Invoking command in '/home/keti/turtle_carto/build/turtlebot3_cartographer': /usr/bin/cmake --install /home/keti/turtle_carto/build/turtlebot3_cartographer

@@ -1,0 +1,69 @@
+[0.065s] Invoking command in '/home/keti/turtle_carto/build/cpp_service_pkg': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_service_pkg -- -j24 -l24
+[0.467s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.467s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.468s] -- Found rclcpp: 2.4.2 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.468s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.468s] -- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.468s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.468s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.468s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.527s] -- Found gazebo_msgs: 3.5.3 (/opt/ros/foxy/share/gazebo_msgs/cmake)
+[0.684s] -- Found custom_interfaces: 0.0.0 (/home/keti/turtle_carto/install/custom_interfaces/share/custom_interfaces/cmake)
+[0.756s] -- Found example_interfaces: 0.9.1 (/opt/ros/foxy/share/example_interfaces/cmake)
+[0.796s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.869s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.869s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.869s] -- Configured cppcheck include dirs: 
+[0.869s] -- Configured cppcheck exclude dirs and/or files: 
+[0.869s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.869s] -- Configured cpplint exclude dirs and/or files: 
+[0.869s] -- Added test 'lint_cmake' to check CMake code style
+[0.869s] -- Added test 'uncrustify' to check C / C++ code style
+[0.869s] -- Configured uncrustify additional arguments: 
+[0.869s] -- Added test 'xmllint' to check XML markup files
+[0.870s] -- Configuring done
+[0.895s] -- Generating done
+[0.897s] -- Build files have been written to: /home/keti/turtle_carto/build/cpp_service_pkg
+[0.918s] [35m[1mScanning dependencies of target robot_turning_server_node[0m
+[0.918s] [35m[1mScanning dependencies of target robot_turning_client_node[0m
+[0.918s] [35m[1mScanning dependencies of target basic_server_node[0m
+[0.918s] [35m[1mScanning dependencies of target basic_client_node[0m
+[0.934s] [ 12%] [32mBuilding CXX object CMakeFiles/basic_server_node.dir/src/basic_server.cpp.o[0m
+[0.934s] [ 25%] [32mBuilding CXX object CMakeFiles/basic_client_node.dir/src/basic_client.cpp.o[0m
+[0.935s] [ 37%] [32mBuilding CXX object CMakeFiles/robot_turning_server_node.dir/src/robot_turning_server.cpp.o[0m
+[0.939s] [ 50%] [32mBuilding CXX object CMakeFiles/robot_turning_client_node.dir/src/robot_turning_client.cpp.o[0m
+[2.250s] [ 62%] [32m[1mLinking CXX executable robot_turning_client_node[0m
+[2.326s] [ 62%] Built target robot_turning_client_node
+[2.384s] [ 75%] [32m[1mLinking CXX executable basic_client_node[0m
+[2.396s] [ 87%] [32m[1mLinking CXX executable basic_server_node[0m
+[2.461s] [ 87%] Built target basic_client_node
+[2.470s] [ 87%] Built target basic_server_node
+[2.660s] [100%] [32m[1mLinking CXX executable robot_turning_server_node[0m
+[2.756s] [100%] Built target robot_turning_server_node
+[2.764s] Invoked command in '/home/keti/turtle_carto/build/cpp_service_pkg' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_service_pkg -- -j24 -l24
+[2.781s] Invoking command in '/home/keti/turtle_carto/build/cpp_service_pkg': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_service_pkg
+[2.784s] -- Install configuration: ""
+[2.785s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/basic_server_node
+[2.785s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/basic_server_node" to ""
+[2.786s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/basic_client_node
+[2.786s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/basic_client_node" to ""
+[2.787s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/robot_turning_server_node
+[2.787s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/robot_turning_server_node" to ""
+[2.788s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/robot_turning_client_node
+[2.788s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_service_pkg/lib/cpp_service_pkg/robot_turning_client_node" to ""
+[2.788s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/ament_index/resource_index/package_run_dependencies/cpp_service_pkg
+[2.788s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/share/ament_index/resource_index/parent_prefix_path/cpp_service_pkg
+[2.788s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/environment/ament_prefix_path.sh
+[2.788s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/environment/ament_prefix_path.dsv
+[2.788s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/environment/path.sh
+[2.788s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/environment/path.dsv
+[2.788s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/local_setup.bash
+[2.788s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/local_setup.sh
+[2.788s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/local_setup.zsh
+[2.788s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/local_setup.dsv
+[2.788s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/package.dsv
+[2.788s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/ament_index/resource_index/packages/cpp_service_pkg
+[2.789s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/cmake/cpp_service_pkgConfig.cmake
+[2.789s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/cmake/cpp_service_pkgConfig-version.cmake
+[2.789s] -- Installing: /home/keti/turtle_carto/install/cpp_service_pkg/share/cpp_service_pkg/package.xml
+[2.792s] Invoked command in '/home/keti/turtle_carto/build/cpp_service_pkg' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_service_pkg

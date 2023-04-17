@@ -1,0 +1,39 @@
+[0.071s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_description -- -j24 -l24
+[0.580s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_description -- -j24 -l24
+[0.630s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/omo_r1mini_description
+[0.668s] -- Install configuration: ""
+[0.670s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes
+[0.677s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes/sensors
+[0.677s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes/sensors/ydlidar_assy.dae
+[0.680s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes/wheels
+[0.681s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes/wheels/caster_wheel.dae
+[0.681s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes/wheels/caster_wheel_rotate.dae
+[0.681s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes/wheels/caster_wheel_mount.dae
+[0.681s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes/wheels/wheel_assy.dae
+[0.681s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes/bases
+[0.681s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes/bases/housing_body.dae
+[0.681s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/meshes/bases/body_assy.dae
+[0.681s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/rviz
+[0.681s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/rviz/model.rviz
+[0.681s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/urdf
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/urdf/omo_r1mini.urdf
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/launch
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/launch/omo_r1mini_description_rviz.launch.py
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/launch/omo_r1mini_description.launch.py
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/launch/omo_r1mini_state_publisher.launch.py
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/ament_index/resource_index/package_run_dependencies/omo_r1mini_description
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/ament_index/resource_index/parent_prefix_path/omo_r1mini_description
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/environment/ament_prefix_path.sh
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/environment/ament_prefix_path.dsv
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/environment/path.sh
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/environment/path.dsv
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/local_setup.bash
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/local_setup.sh
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/local_setup.zsh
+[0.682s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/local_setup.dsv
+[0.683s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/package.dsv
+[0.683s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/ament_index/resource_index/packages/omo_r1mini_description
+[0.683s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/cmake/omo_r1mini_descriptionConfig.cmake
+[0.683s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/cmake/omo_r1mini_descriptionConfig-version.cmake
+[0.683s] -- Up-to-date: /home/keti/turtle_carto/install/omo_r1mini_description/share/omo_r1mini_description/package.xml
+[0.757s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/omo_r1mini_description

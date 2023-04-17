@@ -1,0 +1,25 @@
+[0.546s] Invoking command in '/home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_teleop': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces LD_LIBRARY_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib${LD_LIBRARY_PATH} PYTHONPATH=/home/keti/turtle_carto/build/omo_r1mini_teleop/prefix_override:/home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages:/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/omo_r1mini_teleop build --build-base /home/keti/turtle_carto/build/omo_r1mini_teleop/build install --record /home/keti/turtle_carto/build/omo_r1mini_teleop/install.log --install-scripts $base/lib/omo_r1mini_teleop --single-version-externally-managed
+[0.631s] running egg_info
+[0.631s] writing ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/PKG-INFO
+[0.631s] writing dependency_links to ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/dependency_links.txt
+[0.631s] writing entry points to ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/entry_points.txt
+[0.632s] writing requirements to ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/requires.txt
+[0.632s] writing top-level names to ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/top_level.txt
+[0.646s] reading manifest file '../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/SOURCES.txt'
+[0.647s] writing manifest file '../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info/SOURCES.txt'
+[0.647s] running build
+[0.647s] running build_py
+[0.647s] copying omo_r1mini_teleop/script/teleop_keyboard.py -> /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop/script
+[0.647s] running install
+[0.647s] running install_lib
+[0.648s] copying /home/keti/turtle_carto/build/omo_r1mini_teleop/build/lib/omo_r1mini_teleop/script/teleop_keyboard.py -> /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop/script
+[0.648s] byte-compiling /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop/script/teleop_keyboard.py to teleop_keyboard.cpython-38.pyc
+[0.649s] running install_data
+[0.649s] running install_egg_info
+[0.650s] removing '/home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop-2.1.2-py3.8.egg-info' (and everything under it)
+[0.650s] Copying ../../../build/omo_r1mini_teleop/omo_r1mini_teleop.egg-info to /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages/omo_r1mini_teleop-2.1.2-py3.8.egg-info
+[0.650s] running install_scripts
+[0.658s] Installing teleop_joy script to /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/omo_r1mini_teleop
+[0.658s] Installing teleop_keyboard script to /home/keti/turtle_carto/install/omo_r1mini_teleop/lib/omo_r1mini_teleop
+[0.658s] writing list of installed files to '/home/keti/turtle_carto/build/omo_r1mini_teleop/install.log'
+[0.671s] Invoked command in '/home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_teleop' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces LD_LIBRARY_PATH=/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib${LD_LIBRARY_PATH} PYTHONPATH=/home/keti/turtle_carto/build/omo_r1mini_teleop/prefix_override:/home/keti/turtle_carto/install/omo_r1mini_teleop/lib/python3.8/site-packages:/home/keti/turtle_carto/install/omo_r1mini_interfaces/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/omo_r1mini_teleop build --build-base /home/keti/turtle_carto/build/omo_r1mini_teleop/build install --record /home/keti/turtle_carto/build/omo_r1mini_teleop/install.log --install-scripts $base/lib/omo_r1mini_teleop --single-version-externally-managed

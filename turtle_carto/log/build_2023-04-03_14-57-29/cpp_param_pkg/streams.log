@@ -1,0 +1,80 @@
+[0.216s] Invoking command in '/home/keti/turtle_carto/build/cpp_param_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/gcamp_ros2_basic/cpp_param_pkg -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/cpp_param_pkg
+[0.457s] -- The C compiler identification is GNU 9.4.0
+[0.457s] -- The CXX compiler identification is GNU 9.4.0
+[0.457s] -- Check for working C compiler: /usr/bin/cc
+[0.457s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.458s] -- Detecting C compiler ABI info
+[0.458s] -- Detecting C compiler ABI info - done
+[0.458s] -- Detecting C compile features
+[0.458s] -- Detecting C compile features - done
+[0.458s] -- Check for working CXX compiler: /usr/bin/c++
+[0.458s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.458s] -- Detecting CXX compiler ABI info
+[0.458s] -- Detecting CXX compiler ABI info - done
+[0.459s] -- Detecting CXX compile features
+[0.459s] -- Detecting CXX compile features - done
+[0.460s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.466s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.466s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.566s] -- Found rclcpp: 2.4.2 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.591s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.595s] -- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.644s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.669s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.729s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.759s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.760s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.761s] -- Looking for pthread.h
+[0.798s] -- Looking for pthread.h - found
+[0.799s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.839s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[0.839s] -- Looking for pthread_create in pthreads
+[0.871s] -- Looking for pthread_create in pthreads - not found
+[0.871s] -- Looking for pthread_create in pthread
+[0.905s] -- Looking for pthread_create in pthread - found
+[0.905s] -- Found Threads: TRUE  
+[0.985s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.028s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.028s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.028s] -- Configured cppcheck include dirs: 
+[1.028s] -- Configured cppcheck exclude dirs and/or files: 
+[1.028s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.028s] -- Configured cpplint exclude dirs and/or files: 
+[1.028s] -- Added test 'lint_cmake' to check CMake code style
+[1.028s] -- Added test 'uncrustify' to check C / C++ code style
+[1.028s] -- Configured uncrustify additional arguments: 
+[1.028s] -- Added test 'xmllint' to check XML markup files
+[1.031s] -- Configuring done
+[1.034s] -- Generating done
+[1.034s] -- Build files have been written to: /home/keti/turtle_carto/build/cpp_param_pkg
+[1.039s] Invoked command in '/home/keti/turtle_carto/build/cpp_param_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/gcamp_ros2_basic/cpp_param_pkg -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/cpp_param_pkg
+[1.040s] Invoking command in '/home/keti/turtle_carto/build/cpp_param_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_param_pkg -- -j24 -l24
+[1.059s] [35m[1mScanning dependencies of target param_tutorial[0m
+[1.075s] [ 50%] [32mBuilding CXX object CMakeFiles/param_tutorial.dir/src/param_tutorial.cpp.o[0m
+[2.100s] [01m[K/home/keti/turtle_carto/src/gcamp_ros2_basic/cpp_param_pkg/src/param_tutorial.cpp:[m[K In constructor ‘[01m[KParamNode::ParamNode()[m[K’:
+[2.100s] [01m[K/home/keti/turtle_carto/src/gcamp_ros2_basic/cpp_param_pkg/src/param_tutorial.cpp:17:13:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kmy_int[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[2.100s]    17 |         int [01;35m[Kmy_int[m[K = int_param.as_int();
+[2.100s]       |             [01;35m[K^~~~~~[m[K
+[2.969s] [100%] [32m[1mLinking CXX executable param_tutorial[0m
+[3.125s] [100%] Built target param_tutorial
+[3.139s] Invoked command in '/home/keti/turtle_carto/build/cpp_param_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_param_pkg -- -j24 -l24
+[3.180s] Invoking command in '/home/keti/turtle_carto/build/cpp_param_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_param_pkg
+[3.190s] -- Install configuration: ""
+[3.190s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/lib/cpp_param_pkg/param_tutorial
+[3.190s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_param_pkg/lib/cpp_param_pkg/param_tutorial" to ""
+[3.190s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/ament_index/resource_index/package_run_dependencies/cpp_param_pkg
+[3.190s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/ament_index/resource_index/parent_prefix_path/cpp_param_pkg
+[3.190s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/environment/ament_prefix_path.sh
+[3.191s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/environment/ament_prefix_path.dsv
+[3.191s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/environment/path.sh
+[3.191s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/environment/path.dsv
+[3.191s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/local_setup.bash
+[3.191s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/local_setup.sh
+[3.191s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/local_setup.zsh
+[3.191s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/local_setup.dsv
+[3.191s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/package.dsv
+[3.191s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/ament_index/resource_index/packages/cpp_param_pkg
+[3.191s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/cmake/cpp_param_pkgConfig.cmake
+[3.192s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/cmake/cpp_param_pkgConfig-version.cmake
+[3.192s] -- Installing: /home/keti/turtle_carto/install/cpp_param_pkg/share/cpp_param_pkg/package.xml
+[3.196s] Invoked command in '/home/keti/turtle_carto/build/cpp_param_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_param_pkg

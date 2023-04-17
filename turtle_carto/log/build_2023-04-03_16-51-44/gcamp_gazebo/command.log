@@ -1,0 +1,3 @@
+Invoking command in '/home/keti/turtle_carto/build/gcamp_gazebo': /usr/bin/cmake --build /home/keti/turtle_carto/build/gcamp_gazebo -- -j24 -l24
+Invoked command in '/home/keti/turtle_carto/build/gcamp_gazebo' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/gcamp_gazebo -- -j24 -l24
+Invoking command in '/home/keti/turtle_carto/build/gcamp_gazebo': /usr/bin/cmake --install /home/keti/turtle_carto/build/gcamp_gazebo

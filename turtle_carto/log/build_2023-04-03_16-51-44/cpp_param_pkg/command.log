@@ -1,0 +1,3 @@
+Invoking command in '/home/keti/turtle_carto/build/cpp_param_pkg': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_param_pkg -- -j24 -l24
+Invoked command in '/home/keti/turtle_carto/build/cpp_param_pkg' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_param_pkg -- -j24 -l24
+Invoking command in '/home/keti/turtle_carto/build/cpp_param_pkg': /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_param_pkg

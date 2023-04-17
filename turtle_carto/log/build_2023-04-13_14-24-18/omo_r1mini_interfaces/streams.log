@@ -1,0 +1,16 @@
+[0.051s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_interfaces': /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_interfaces -- -j24 -l24
+[0.471s] [  1%] Built target omo_r1mini_interfaces__cpp
+[0.472s] [ 12%] Built target omo_r1mini_interfaces__rosidl_generator_c
+[0.472s] [ 23%] Built target omo_r1mini_interfaces__rosidl_typesupport_cpp
+[0.472s] [ 46%] Built target omo_r1mini_interfaces__rosidl_typesupport_introspection_c
+[0.472s] [ 46%] Built target omo_r1mini_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.472s] [ 57%] Built target omo_r1mini_interfaces__rosidl_typesupport_c
+[0.472s] [ 69%] Built target omo_r1mini_interfaces__rosidl_typesupport_introspection_cpp
+[0.472s] [ 80%] Built target omo_r1mini_interfaces__rosidl_typesupport_fastrtps_c
+[0.472s] [ 80%] Built target omo_r1mini_interfaces
+[0.472s] [ 81%] Built target omo_r1mini_interfaces__py
+[0.472s] [ 91%] Built target omo_r1mini_interfaces__python
+[0.472s] [ 94%] Built target omo_r1mini_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.472s] [ 97%] Built target omo_r1mini_interfaces__rosidl_typesupport_c__pyext
+[0.472s] [100%] Built target omo_r1mini_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.488s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_interfaces' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_interfaces -- -j24 -l24

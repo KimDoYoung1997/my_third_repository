@@ -1,0 +1,6 @@
+/home/keti/turtle_carto/build/omo_r1mini_interfaces/rosidl_adapter/omo_r1mini_interfaces:srv/Battery.idl
+/home/keti/turtle_carto/build/omo_r1mini_interfaces/rosidl_adapter/omo_r1mini_interfaces:srv/Calg.idl
+/home/keti/turtle_carto/build/omo_r1mini_interfaces/rosidl_adapter/omo_r1mini_interfaces:srv/Color.idl
+/home/keti/turtle_carto/build/omo_r1mini_interfaces/rosidl_adapter/omo_r1mini_interfaces:srv/Onoff.idl
+/home/keti/turtle_carto/build/omo_r1mini_interfaces/rosidl_adapter/omo_r1mini_interfaces:srv/ResetOdom.idl
+/home/keti/turtle_carto/build/omo_r1mini_interfaces/rosidl_adapter/omo_r1mini_interfaces:srv/SaveColor.idl

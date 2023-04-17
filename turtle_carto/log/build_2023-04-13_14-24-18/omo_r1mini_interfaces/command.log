@@ -1,0 +1,2 @@
+Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_interfaces': /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_interfaces -- -j24 -l24
+Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_interfaces' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_interfaces -- -j24 -l24

@@ -1,0 +1,2 @@
+Invoking command in '/home/keti/turtle_carto/build/cpp_service_tutorial': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_service_tutorial -- -j24 -l24
+Invoked command in '/home/keti/turtle_carto/build/cpp_service_tutorial' returned '2': /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_service_tutorial -- -j24 -l24

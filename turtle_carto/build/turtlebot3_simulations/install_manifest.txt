@@ -1,0 +1,15 @@
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/ament_index/resource_index/package_run_dependencies/turtlebot3_simulations
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/ament_index/resource_index/parent_prefix_path/turtlebot3_simulations
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.sh
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.dsv
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.sh
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.dsv
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.bash
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.sh
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.zsh
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.dsv
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/package.dsv
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/ament_index/resource_index/packages/turtlebot3_simulations
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig.cmake
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig-version.cmake
+/home/keti/turtle_carto/install/turtlebot3_simulations/share/turtlebot3_simulations/package.xml

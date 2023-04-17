@@ -1,0 +1,52 @@
+[0.038s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_navigation2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_navigation2 -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/omo_r1mini_navigation2
+[0.277s] -- The C compiler identification is GNU 9.4.0
+[0.277s] -- The CXX compiler identification is GNU 9.4.0
+[0.277s] -- Check for working C compiler: /usr/bin/cc
+[0.277s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.277s] -- Detecting C compiler ABI info
+[0.277s] -- Detecting C compiler ABI info - done
+[0.277s] -- Detecting C compile features
+[0.277s] -- Detecting C compile features - done
+[0.278s] -- Check for working CXX compiler: /usr/bin/c++
+[0.278s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.278s] -- Detecting CXX compiler ABI info
+[0.278s] -- Detecting CXX compiler ABI info - done
+[0.278s] -- Detecting CXX compile features
+[0.278s] -- Detecting CXX compile features - done
+[0.278s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.278s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.278s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.393s] -- Configuring done
+[0.397s] -- Generating done
+[0.397s] -- Build files have been written to: /home/keti/turtle_carto/build/omo_r1mini_navigation2
+[0.441s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/omo_r1mini-foxy/omo_r1mini_navigation2 -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/omo_r1mini_navigation2
+[0.443s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_navigation2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_navigation2 -- -j24 -l24
+[0.477s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/omo_r1mini_navigation2 -- -j24 -l24
+[0.488s] Invoking command in '/home/keti/turtle_carto/build/omo_r1mini_navigation2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/omo_r1mini_navigation2
+[0.492s] -- Install configuration: ""
+[0.492s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/launch
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/launch/navigation2_rviz.launch.py
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/launch/navigation2.launch.py
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/map
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/map/turtlebot3_world.pgm
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/map/turtlebot3_world.yaml
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/param
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/param/omo_r1mini.yaml
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/rviz
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/rviz/tb3_navigation2.rviz
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/ament_index/resource_index/package_run_dependencies/omo_r1mini_navigation2
+[0.493s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/ament_index/resource_index/parent_prefix_path/omo_r1mini_navigation2
+[0.494s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/environment/ament_prefix_path.sh
+[0.494s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/environment/ament_prefix_path.dsv
+[0.494s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/environment/path.sh
+[0.494s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/environment/path.dsv
+[0.496s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/local_setup.bash
+[0.496s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/local_setup.sh
+[0.496s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/local_setup.zsh
+[0.496s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/local_setup.dsv
+[0.496s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/package.dsv
+[0.496s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/ament_index/resource_index/packages/omo_r1mini_navigation2
+[0.496s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/cmake/omo_r1mini_navigation2Config.cmake
+[0.496s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/cmake/omo_r1mini_navigation2Config-version.cmake
+[0.496s] -- Installing: /home/keti/turtle_carto/install/omo_r1mini_navigation2/share/omo_r1mini_navigation2/package.xml
+[0.496s] Invoked command in '/home/keti/turtle_carto/build/omo_r1mini_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/omo_r1mini_navigation2

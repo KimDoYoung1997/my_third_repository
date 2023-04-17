@@ -1,0 +1,2 @@
+Invoking command in '/home/keti/turtle_carto/build/teleop_twist_joy': /usr/bin/cmake /home/keti/turtle_carto/src/teleop_twist_joy -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/teleop_twist_joy
+Invoked command in '/home/keti/turtle_carto/build/teleop_twist_joy' returned '1': /usr/bin/cmake /home/keti/turtle_carto/src/teleop_twist_joy -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/teleop_twist_joy

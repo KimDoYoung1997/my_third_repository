@@ -1,0 +1,98 @@
+[0.251s] Invoking command in '/home/keti/turtle_carto/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/teleop_twist_joy -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/teleop_twist_joy
+[0.258s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.273s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.273s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.381s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.409s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.412s] -- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.461s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.477s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.522s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.564s] -- Found rclcpp: 2.4.2 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.590s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.591s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.592s] -- Looking for pthread.h
+[0.631s] -- Looking for pthread.h - found
+[0.631s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.666s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[0.666s] -- Looking for pthread_create in pthreads
+[0.693s] -- Looking for pthread_create in pthreads - not found
+[0.693s] -- Looking for pthread_create in pthread
+[0.725s] -- Looking for pthread_create in pthread - found
+[0.725s] -- Found Threads: TRUE  
+[0.798s] -- Found rclcpp_components: 2.4.2 (/opt/ros/foxy/share/rclcpp_components/cmake)
+[0.831s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[0.868s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
+[0.904s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
+[0.904s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY
+[0.943s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success
+[0.943s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR
+[0.983s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success
+[0.986s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.028s] -- Found python_cmake_module: 0.8.1 (/opt/ros/foxy/share/python_cmake_module/cmake)
+[1.039s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[1.042s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[1.042s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.042s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[1.042s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[1.053s] -- Found PythonExtra: .so  
+[1.064s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.064s] -- Configured cppcheck include dirs: /home/keti/turtle_carto/src/teleop_twist_joy/include
+[1.064s] -- Configured cppcheck exclude dirs and/or files: 
+[1.064s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.065s] -- Added test 'lint_cmake' to check CMake code style
+[1.065s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.066s] -- Added test 'xmllint' to check XML markup files
+[1.068s] -- Configuring done
+[1.074s] -- Generating done
+[1.074s] -- Build files have been written to: /home/keti/turtle_carto/build/teleop_twist_joy
+[1.080s] Invoked command in '/home/keti/turtle_carto/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/teleop_twist_joy -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/teleop_twist_joy
+[1.081s] Invoking command in '/home/keti/turtle_carto/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/teleop_twist_joy -- -j24 -l24
+[1.105s] [35m[1mScanning dependencies of target teleop_twist_joy[0m
+[1.142s] [ 25%] [32mBuilding CXX object CMakeFiles/teleop_twist_joy.dir/src/teleop_twist_joy.cpp.o[0m
+[4.007s] [ 50%] [32m[1mLinking CXX shared library libteleop_twist_joy.so[0m
+[4.146s] [ 50%] Built target teleop_twist_joy
+[4.150s] [35m[1mScanning dependencies of target teleop_twist_joy_node[0m
+[4.164s] [ 75%] [32mBuilding CXX object CMakeFiles/teleop_twist_joy_node.dir/src/teleop_node.cpp.o[0m
+[4.882s] [100%] [32m[1mLinking CXX executable teleop_node[0m
+[4.955s] [100%] Built target teleop_twist_joy_node
+[4.961s] Invoked command in '/home/keti/turtle_carto/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/teleop_twist_joy -- -j24 -l24
+[4.972s] Invoking command in '/home/keti/turtle_carto/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/teleop_twist_joy
+[4.976s] -- Install configuration: ""
+[4.976s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/lib/libteleop_twist_joy.so
+[4.977s] -- Set runtime path of "/home/keti/turtle_carto/install/teleop_twist_joy/lib/libteleop_twist_joy.so" to ""
+[4.977s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/lib/teleop_twist_joy/teleop_node
+[4.977s] -- Set runtime path of "/home/keti/turtle_carto/install/teleop_twist_joy/lib/teleop_twist_joy/teleop_node" to ""
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/include
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/include/teleop_twist_joy
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/include/teleop_twist_joy/teleop_twist_joy.hpp
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/include/teleop_twist_joy/teleop_twist_joy_export.h
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/launch
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/launch/teleop-launch.py
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/config
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/config/ps3.config.yaml
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/config/xbox.config.yaml
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/config/ps3-holonomic.config.yaml
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/config/xd3.config.yaml
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/config/atk3.config.yaml
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/environment/library_path.sh
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/environment/library_path.dsv
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/ament_index/resource_index/package_run_dependencies/teleop_twist_joy
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/ament_index/resource_index/parent_prefix_path/teleop_twist_joy
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/environment/ament_prefix_path.sh
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/environment/ament_prefix_path.dsv
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/environment/path.sh
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/environment/path.dsv
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.bash
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.sh
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.zsh
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.dsv
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/package.dsv
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/ament_index/resource_index/packages/teleop_twist_joy
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/ament_index/resource_index/rclcpp_components/teleop_twist_joy
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/cmake/ament_cmake_export_libraries-extras.cmake
+[4.978s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/cmake/teleop_twist_joyConfig.cmake
+[4.979s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/cmake/teleop_twist_joyConfig-version.cmake
+[4.979s] -- Installing: /home/keti/turtle_carto/install/teleop_twist_joy/share/teleop_twist_joy/package.xml
+[4.981s] Invoked command in '/home/keti/turtle_carto/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/teleop_twist_joy

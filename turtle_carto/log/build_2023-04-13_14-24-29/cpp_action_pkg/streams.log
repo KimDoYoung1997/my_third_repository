@@ -1,0 +1,69 @@
+[0.066s] Invoking command in '/home/keti/turtle_carto/build/cpp_action_pkg': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_action_pkg -- -j24 -l24
+[0.475s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.475s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.475s] -- Found rclcpp: 2.4.2 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.475s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.475s] -- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.475s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.475s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.475s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.541s] -- Found rclcpp_action: 2.4.2 (/opt/ros/foxy/share/rclcpp_action/cmake)
+[0.604s] -- Found rclcpp_components: 2.4.2 (/opt/ros/foxy/share/rclcpp_components/cmake)
+[0.652s] -- Found custom_interfaces: 0.0.0 (/home/keti/turtle_carto/install/custom_interfaces/share/custom_interfaces/cmake)
+[0.686s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.751s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.751s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.751s] -- Configured cppcheck include dirs: 
+[0.751s] -- Configured cppcheck exclude dirs and/or files: 
+[0.751s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.752s] -- Configured cpplint exclude dirs and/or files: 
+[0.752s] -- Added test 'lint_cmake' to check CMake code style
+[0.754s] -- Added test 'uncrustify' to check C / C++ code style
+[0.754s] -- Configured uncrustify additional arguments: 
+[0.754s] -- Added test 'xmllint' to check XML markup files
+[0.755s] -- Configuring done
+[0.775s] -- Generating done
+[0.775s] -- Build files have been written to: /home/keti/turtle_carto/build/cpp_action_pkg
+[0.797s] [35m[1mScanning dependencies of target fibonacci_action_server_node[0m
+[0.798s] [35m[1mScanning dependencies of target fibonacci_action_client_node[0m
+[0.799s] [35m[1mScanning dependencies of target fibonacci_action_client_oop_node[0m
+[0.804s] [35m[1mScanning dependencies of target fibonacci_action_server_oop_node[0m
+[0.821s] [ 25%] [32mBuilding CXX object CMakeFiles/fibonacci_action_client_node.dir/src/fibonacci_action_client.cpp.o[0m
+[0.821s] [ 25%] [32mBuilding CXX object CMakeFiles/fibonacci_action_client_oop_node.dir/src/fibonacci_action_client_oop.cpp.o[0m
+[0.821s] [ 37%] [32mBuilding CXX object CMakeFiles/fibonacci_action_server_node.dir/src/fibonacci_action_server.cpp.o[0m
+[0.826s] [ 50%] [32mBuilding CXX object CMakeFiles/fibonacci_action_server_oop_node.dir/src/fibonacci_action_server_oop.cpp.o[0m
+[2.376s] [ 62%] [32m[1mLinking CXX executable fibonacci_action_server_node[0m
+[2.499s] [ 62%] Built target fibonacci_action_server_node
+[2.657s] [ 75%] [32m[1mLinking CXX executable fibonacci_action_server_oop_node[0m
+[2.681s] [ 87%] [32m[1mLinking CXX executable fibonacci_action_client_node[0m
+[2.745s] [ 87%] Built target fibonacci_action_server_oop_node
+[2.779s] [ 87%] Built target fibonacci_action_client_node
+[3.274s] [100%] [32m[1mLinking CXX executable fibonacci_action_client_oop_node[0m
+[3.355s] [100%] Built target fibonacci_action_client_oop_node
+[3.364s] Invoked command in '/home/keti/turtle_carto/build/cpp_action_pkg' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_action_pkg -- -j24 -l24
+[3.377s] Invoking command in '/home/keti/turtle_carto/build/cpp_action_pkg': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_action_pkg
+[3.382s] -- Install configuration: ""
+[3.382s] -- Installing: /home/keti/turtle_carto/install/cpp_action_pkg/lib/cpp_action_pkg/fibonacci_action_client_node
+[3.383s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_action_pkg/lib/cpp_action_pkg/fibonacci_action_client_node" to ""
+[3.383s] -- Installing: /home/keti/turtle_carto/install/cpp_action_pkg/lib/cpp_action_pkg/fibonacci_action_client_oop_node
+[3.383s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_action_pkg/lib/cpp_action_pkg/fibonacci_action_client_oop_node" to ""
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_action_pkg/lib/cpp_action_pkg/fibonacci_action_server_node
+[3.384s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_action_pkg/lib/cpp_action_pkg/fibonacci_action_server_node" to ""
+[3.385s] -- Installing: /home/keti/turtle_carto/install/cpp_action_pkg/lib/cpp_action_pkg/fibonacci_action_server_oop_node
+[3.385s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_action_pkg/lib/cpp_action_pkg/fibonacci_action_server_oop_node" to ""
+[3.385s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_action_pkg/share/ament_index/resource_index/package_run_dependencies/cpp_action_pkg
+[3.385s] -- Installing: /home/keti/turtle_carto/install/cpp_action_pkg/share/ament_index/resource_index/parent_prefix_path/cpp_action_pkg
+[3.385s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/environment/ament_prefix_path.sh
+[3.385s] -- Installing: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/environment/ament_prefix_path.dsv
+[3.385s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/environment/path.sh
+[3.385s] -- Installing: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/environment/path.dsv
+[3.385s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/local_setup.bash
+[3.386s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/local_setup.sh
+[3.386s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/local_setup.zsh
+[3.386s] -- Installing: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/local_setup.dsv
+[3.386s] -- Installing: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/package.dsv
+[3.386s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_action_pkg/share/ament_index/resource_index/packages/cpp_action_pkg
+[3.386s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/cmake/cpp_action_pkgConfig.cmake
+[3.386s] -- Up-to-date: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/cmake/cpp_action_pkgConfig-version.cmake
+[3.386s] -- Installing: /home/keti/turtle_carto/install/cpp_action_pkg/share/cpp_action_pkg/package.xml
+[3.388s] Invoked command in '/home/keti/turtle_carto/build/cpp_action_pkg' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/custom_interfaces:/opt/ros/foxy LD_LIBRARY_PATH=/home/keti/turtle_carto/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/install/custom_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_action_pkg

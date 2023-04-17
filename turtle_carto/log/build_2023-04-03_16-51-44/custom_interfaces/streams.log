@@ -1,0 +1,16 @@
+[0.043s] Invoking command in '/home/keti/turtle_carto/build/custom_interfaces': /usr/bin/cmake --build /home/keti/turtle_carto/build/custom_interfaces -- -j24 -l24
+[0.520s] [  1%] Built target custom_interfaces__cpp
+[0.520s] [ 12%] Built target custom_interfaces__rosidl_generator_c
+[0.520s] [ 23%] Built target custom_interfaces__rosidl_typesupport_cpp
+[0.520s] [ 34%] Built target custom_interfaces__rosidl_typesupport_c
+[0.520s] [ 46%] Built target custom_interfaces__rosidl_typesupport_introspection_c
+[0.520s] [ 57%] Built target custom_interfaces__rosidl_typesupport_introspection_cpp
+[0.520s] [ 68%] Built target custom_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.520s] [ 79%] Built target custom_interfaces__rosidl_typesupport_fastrtps_c
+[0.520s] [ 79%] Built target custom_interfaces
+[0.520s] [ 80%] Built target custom_interfaces__py
+[0.520s] [ 90%] Built target custom_interfaces__python
+[0.520s] [ 96%] Built target custom_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.520s] [ 96%] Built target custom_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.520s] [100%] Built target custom_interfaces__rosidl_typesupport_c__pyext
+[0.527s] Invoked command in '/home/keti/turtle_carto/build/custom_interfaces' returned '0': /usr/bin/cmake --build /home/keti/turtle_carto/build/custom_interfaces -- -j24 -l24

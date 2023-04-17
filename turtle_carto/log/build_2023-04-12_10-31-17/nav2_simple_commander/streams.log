@@ -1,0 +1,28 @@
+[0.361s] Invoking command in '/home/keti/turtle_carto/src/ros-planning/navigation2/nav2_simple_commander': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/nav2_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/nav2_msgs LD_LIBRARY_PATH=/home/keti/turtle_carto/install/nav2_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/build/nav2_simple_commander/prefix_override:/home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages:/home/keti/turtle_carto/install/nav2_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/nav2_simple_commander build --build-base /home/keti/turtle_carto/build/nav2_simple_commander/build install --record /home/keti/turtle_carto/build/nav2_simple_commander/install.log --install-scripts $base/lib/nav2_simple_commander --single-version-externally-managed
+[0.459s] running egg_info
+[0.459s] writing ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/PKG-INFO
+[0.460s] writing dependency_links to ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/dependency_links.txt
+[0.460s] writing entry points to ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/entry_points.txt
+[0.460s] writing requirements to ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/requires.txt
+[0.460s] writing top-level names to ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/top_level.txt
+[0.476s] reading manifest file '../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/SOURCES.txt'
+[0.476s] writing manifest file '../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/SOURCES.txt'
+[0.476s] running build
+[0.476s] running build_py
+[0.477s] running install
+[0.477s] running install_lib
+[0.478s] running install_data
+[0.478s] running install_egg_info
+[0.479s] removing '/home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander-1.0.0-py3.8.egg-info' (and everything under it)
+[0.479s] Copying ../../../../build/nav2_simple_commander/nav2_simple_commander.egg-info to /home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander-1.0.0-py3.8.egg-info
+[0.480s] running install_scripts
+[0.488s] Installing demo_inspection script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.488s] Installing demo_picking script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.488s] Installing demo_recoveries script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.488s] Installing demo_security script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.489s] Installing example_follow_path script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.489s] Installing example_nav_through_poses script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.489s] Installing example_nav_to_pose script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.489s] Installing example_waypoint_follower script to /home/keti/turtle_carto/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.489s] writing list of installed files to '/home/keti/turtle_carto/build/nav2_simple_commander/install.log'
+[0.501s] Invoked command in '/home/keti/turtle_carto/src/ros-planning/navigation2/nav2_simple_commander' returned '0': AMENT_PREFIX_PATH=/home/keti/turtle_carto/install/nav2_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keti/turtle_carto/install/nav2_msgs LD_LIBRARY_PATH=/home/keti/turtle_carto/install/nav2_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-11.4/lib64 PYTHONPATH=/home/keti/turtle_carto/build/nav2_simple_commander/prefix_override:/home/keti/turtle_carto/install/nav2_simple_commander/lib/python3.8/site-packages:/home/keti/turtle_carto/install/nav2_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/nav2_simple_commander build --build-base /home/keti/turtle_carto/build/nav2_simple_commander/build install --record /home/keti/turtle_carto/build/nav2_simple_commander/install.log --install-scripts $base/lib/nav2_simple_commander --single-version-externally-managed

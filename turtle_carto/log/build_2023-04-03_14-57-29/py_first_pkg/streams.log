@@ -1,0 +1,39 @@
+[0.788s] Invoking command in '/home/keti/turtle_carto/src/gcamp_ros2_basic/py_first_pkg': PYTHONPATH=/home/keti/turtle_carto/build/py_first_pkg/prefix_override:/home/keti/turtle_carto/install/py_first_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/py_first_pkg build --build-base /home/keti/turtle_carto/build/py_first_pkg/build install --record /home/keti/turtle_carto/build/py_first_pkg/install.log --install-scripts $base/lib/py_first_pkg --single-version-externally-managed
+[0.949s] running egg_info
+[0.949s] creating ../../../build/py_first_pkg/py_first_pkg.egg-info
+[0.949s] writing ../../../build/py_first_pkg/py_first_pkg.egg-info/PKG-INFO
+[0.950s] writing dependency_links to ../../../build/py_first_pkg/py_first_pkg.egg-info/dependency_links.txt
+[0.950s] writing entry points to ../../../build/py_first_pkg/py_first_pkg.egg-info/entry_points.txt
+[0.950s] writing requirements to ../../../build/py_first_pkg/py_first_pkg.egg-info/requires.txt
+[0.950s] writing top-level names to ../../../build/py_first_pkg/py_first_pkg.egg-info/top_level.txt
+[0.951s] writing manifest file '../../../build/py_first_pkg/py_first_pkg.egg-info/SOURCES.txt'
+[0.976s] reading manifest file '../../../build/py_first_pkg/py_first_pkg.egg-info/SOURCES.txt'
+[0.977s] writing manifest file '../../../build/py_first_pkg/py_first_pkg.egg-info/SOURCES.txt'
+[0.977s] running build
+[0.977s] running build_py
+[0.977s] creating /home/keti/turtle_carto/build/py_first_pkg/build
+[0.977s] creating /home/keti/turtle_carto/build/py_first_pkg/build/lib
+[0.977s] creating /home/keti/turtle_carto/build/py_first_pkg/build/lib/py_first_pkg
+[0.977s] copying py_first_pkg/__init__.py -> /home/keti/turtle_carto/build/py_first_pkg/build/lib/py_first_pkg
+[0.977s] copying py_first_pkg/hello_ros.py -> /home/keti/turtle_carto/build/py_first_pkg/build/lib/py_first_pkg
+[0.977s] running install
+[0.978s] running install_lib
+[0.978s] creating /home/keti/turtle_carto/install/py_first_pkg/lib/python3.8/site-packages/py_first_pkg
+[0.978s] copying /home/keti/turtle_carto/build/py_first_pkg/build/lib/py_first_pkg/__init__.py -> /home/keti/turtle_carto/install/py_first_pkg/lib/python3.8/site-packages/py_first_pkg
+[0.978s] copying /home/keti/turtle_carto/build/py_first_pkg/build/lib/py_first_pkg/hello_ros.py -> /home/keti/turtle_carto/install/py_first_pkg/lib/python3.8/site-packages/py_first_pkg
+[0.979s] byte-compiling /home/keti/turtle_carto/install/py_first_pkg/lib/python3.8/site-packages/py_first_pkg/__init__.py to __init__.cpython-38.pyc
+[0.979s] byte-compiling /home/keti/turtle_carto/install/py_first_pkg/lib/python3.8/site-packages/py_first_pkg/hello_ros.py to hello_ros.cpython-38.pyc
+[0.980s] running install_data
+[0.980s] creating /home/keti/turtle_carto/install/py_first_pkg/share/ament_index
+[0.980s] creating /home/keti/turtle_carto/install/py_first_pkg/share/ament_index/resource_index
+[0.980s] creating /home/keti/turtle_carto/install/py_first_pkg/share/ament_index/resource_index/packages
+[0.980s] copying resource/py_first_pkg -> /home/keti/turtle_carto/install/py_first_pkg/share/ament_index/resource_index/packages
+[0.980s] copying package.xml -> /home/keti/turtle_carto/install/py_first_pkg/share/py_first_pkg
+[0.980s] creating /home/keti/turtle_carto/install/py_first_pkg/share/py_first_pkg/launch
+[0.980s] copying launch/hello_ros.launch.py -> /home/keti/turtle_carto/install/py_first_pkg/share/py_first_pkg/launch
+[0.980s] running install_egg_info
+[0.981s] Copying ../../../build/py_first_pkg/py_first_pkg.egg-info to /home/keti/turtle_carto/install/py_first_pkg/lib/python3.8/site-packages/py_first_pkg-0.0.0-py3.8.egg-info
+[0.982s] running install_scripts
+[0.994s] Installing hello_ros_node script to /home/keti/turtle_carto/install/py_first_pkg/lib/py_first_pkg
+[0.994s] writing list of installed files to '/home/keti/turtle_carto/build/py_first_pkg/install.log'
+[1.008s] Invoked command in '/home/keti/turtle_carto/src/gcamp_ros2_basic/py_first_pkg' returned '0': PYTHONPATH=/home/keti/turtle_carto/build/py_first_pkg/prefix_override:/home/keti/turtle_carto/install/py_first_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/py_first_pkg build --build-base /home/keti/turtle_carto/build/py_first_pkg/build install --record /home/keti/turtle_carto/build/py_first_pkg/install.log --install-scripts $base/lib/py_first_pkg --single-version-externally-managed

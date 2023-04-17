@@ -1,0 +1,104 @@
+[0.216s] Invoking command in '/home/keti/turtle_carto/build/cpp_first_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/gcamp_ros2_basic/cpp_first_pkg -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/cpp_first_pkg
+[0.458s] -- The C compiler identification is GNU 9.4.0
+[0.458s] -- The CXX compiler identification is GNU 9.4.0
+[0.459s] -- Check for working C compiler: /usr/bin/cc
+[0.460s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.460s] -- Detecting C compiler ABI info
+[0.460s] -- Detecting C compiler ABI info - done
+[0.460s] -- Detecting C compile features
+[0.460s] -- Detecting C compile features - done
+[0.460s] -- Check for working CXX compiler: /usr/bin/c++
+[0.460s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.460s] -- Detecting CXX compiler ABI info
+[0.460s] -- Detecting CXX compiler ABI info - done
+[0.463s] -- Detecting CXX compile features
+[0.463s] -- Detecting CXX compile features - done
+[0.464s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.477s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.477s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.570s] -- Found rclcpp: 2.4.2 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.595s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.599s] -- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.654s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.679s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.746s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.796s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.797s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.798s] -- Looking for pthread.h
+[0.838s] -- Looking for pthread.h - found
+[0.838s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.876s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[0.876s] -- Looking for pthread_create in pthreads
+[0.911s] -- Looking for pthread_create in pthreads - not found
+[0.911s] -- Looking for pthread_create in pthread
+[0.949s] -- Looking for pthread_create in pthread - found
+[0.950s] -- Found Threads: TRUE  
+[1.026s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.070s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.070s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.070s] -- Configured cppcheck include dirs: 
+[1.070s] -- Configured cppcheck exclude dirs and/or files: 
+[1.071s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.071s] -- Configured cpplint exclude dirs and/or files: 
+[1.071s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.071s] -- Added test 'lint_cmake' to check CMake code style
+[1.072s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.072s] -- Added test 'uncrustify' to check C / C++ code style
+[1.072s] -- Configured uncrustify additional arguments: 
+[1.072s] -- Added test 'xmllint' to check XML markup files
+[1.074s] -- Configuring done
+[1.081s] -- Generating done
+[1.082s] -- Build files have been written to: /home/keti/turtle_carto/build/cpp_first_pkg
+[1.085s] Invoked command in '/home/keti/turtle_carto/build/cpp_first_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake /home/keti/turtle_carto/src/gcamp_ros2_basic/cpp_first_pkg -DCMAKE_INSTALL_PREFIX=/home/keti/turtle_carto/install/cpp_first_pkg
+[1.087s] Invoking command in '/home/keti/turtle_carto/build/cpp_first_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_first_pkg -- -j24 -l24
+[1.107s] [35m[1mScanning dependencies of target lifecycle_node[0m
+[1.110s] [35m[1mScanning dependencies of target simple_loop_node[0m
+[1.110s] [35m[1mScanning dependencies of target simple_node[0m
+[1.110s] [35m[1mScanning dependencies of target simple_without_oop_node[0m
+[1.110s] [35m[1mScanning dependencies of target simple_oop_node[0m
+[1.124s] [ 10%] [32mBuilding CXX object CMakeFiles/lifecycle_node.dir/src/lifecycle.cpp.o[0m
+[1.132s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_node.dir/src/simple.cpp.o[0m
+[1.132s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_without_oop_node.dir/src/simple_without_oop.cpp.o[0m
+[1.132s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_oop_node.dir/src/simple_oop.cpp.o[0m
+[1.132s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_loop_node.dir/src/simple_loop.cpp.o[0m
+[2.721s] [ 60%] [32m[1mLinking CXX executable simple_loop_node[0m
+[2.816s] [ 70%] [32m[1mLinking CXX executable simple_oop_node[0m
+[2.920s] [ 70%] Built target simple_loop_node
+[2.934s] [ 80%] [32m[1mLinking CXX executable simple_node[0m
+[3.109s] [ 90%] [32m[1mLinking CXX executable lifecycle_node[0m
+[3.136s] [ 90%] Built target simple_oop_node
+[3.142s] [ 90%] Built target simple_node
+[3.215s] [100%] [32m[1mLinking CXX executable simple_without_oop_node[0m
+[3.254s] [100%] Built target lifecycle_node
+[3.327s] [100%] Built target simple_without_oop_node
+[3.336s] Invoked command in '/home/keti/turtle_carto/build/cpp_first_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --build /home/keti/turtle_carto/build/cpp_first_pkg -- -j24 -l24
+[3.369s] Invoking command in '/home/keti/turtle_carto/build/cpp_first_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_first_pkg
+[3.381s] -- Install configuration: ""
+[3.381s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/lib/cpp_first_pkg/lifecycle_node
+[3.381s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_first_pkg/lib/cpp_first_pkg/lifecycle_node" to ""
+[3.381s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/lib/cpp_first_pkg/simple_loop_node
+[3.382s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_first_pkg/lib/cpp_first_pkg/simple_loop_node" to ""
+[3.382s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/lib/cpp_first_pkg/simple_oop_node
+[3.382s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_first_pkg/lib/cpp_first_pkg/simple_oop_node" to ""
+[3.382s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/lib/cpp_first_pkg/simple_without_oop_node
+[3.382s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_first_pkg/lib/cpp_first_pkg/simple_without_oop_node" to ""
+[3.383s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/lib/cpp_first_pkg/simple_node
+[3.383s] -- Set runtime path of "/home/keti/turtle_carto/install/cpp_first_pkg/lib/cpp_first_pkg/simple_node" to ""
+[3.383s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/ament_index/resource_index/package_run_dependencies/cpp_first_pkg
+[3.383s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/ament_index/resource_index/parent_prefix_path/cpp_first_pkg
+[3.383s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/environment/ament_prefix_path.sh
+[3.383s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/environment/ament_prefix_path.dsv
+[3.383s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/environment/path.sh
+[3.383s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/environment/path.dsv
+[3.383s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/local_setup.bash
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/local_setup.sh
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/local_setup.zsh
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/local_setup.dsv
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/package.dsv
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/ament_index/resource_index/packages/cpp_first_pkg
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/cmake/cpp_first_pkgConfig.cmake
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/cmake/cpp_first_pkgConfig-version.cmake
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg/package.xml
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg//launch
+[3.384s] -- Installing: /home/keti/turtle_carto/install/cpp_first_pkg/share/cpp_first_pkg//launch/simple_node.launch.py
+[3.389s] Invoked command in '/home/keti/turtle_carto/build/cpp_first_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/turtle_carto/install/turtlebot3_teleop:/home/keti/turtle_carto/install/turtlebot3_example:/home/keti/turtle_carto/install/py_topic_pkg:/home/keti/turtle_carto/install/py_service_pkg:/home/keti/turtle_carto/install/py_first_pkg:/home/keti/turtle_carto/install/py_action_pkg:/home/keti/turtle_carto/install/follow_waypoints:/opt/ros/foxy /usr/bin/cmake --install /home/keti/turtle_carto/build/cpp_first_pkg
